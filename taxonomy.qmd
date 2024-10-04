@@ -1,0 +1,198 @@
+---
+title: "Taxonomy"
+format: html
+toc: true
+toc-location: left
+toc-depth: 2
+---
+
+
+# **Taxonomy for Collecting Indian Cultural Data Using LLMs and Graph-Based Approaches**
+
+This taxonomy organizes the methods and frameworks for collecting, curating, and analyzing cultural data from Indian subcultures using a combination of **graph-based techniques** and **language models**.
+
+#### **1. Data Sources**
+   - **Community-Generated Data**:  
+     Data sourced directly from communities through participatory research, surveys, interviews, or gamified frameworks (e.g., DOSA paper).
+   - **Web Data**:  
+     Crawling cultural information from structured (Wikipedia, government websites) or unstructured (blogs, forums) online sources.
+   - **Historical and Literary Texts**:  
+     Analyzing books, epics, religious texts, and manuscripts for cultural references.
+   - **Social Media Data**:  
+     Extracting discussions from platforms like Twitter, YouTube, or Instagram, especially focusing on hyperlocal trends and dialogues.
+   - **Multilingual Resources**:  
+     Incorporating linguistic diversity by collecting data in multiple Indian languages and dialects, including code-mixed language from social media.
+
+#### **2. Types of Cultural Data**
+   - **Social Artifacts**:  
+     Physical or conceptual artifacts that represent cultural identity (e.g., food, festivals, clothing, traditions).
+   - **Local Practices and Rituals**:  
+     Documentation of rituals, festivals, and practices specific to regions or subcultures.
+   - **Hyperlocal Landmarks**:  
+     Cultural landmarks like temples, monuments, and local historical sites (e.g., using LOFTI's localization approach).
+   - **Language and Dialects**:  
+     Regional languages, dialects, and code-mixing in communication (e.g., the multilingual focus from Beyond Metrics paper).
+   - **Storytelling and Oral Traditions**:  
+     Folk tales, oral histories, and narratives passed through generations.
+
+#### **3. Granularity Levels**
+   - **National Level**:  
+     Broad, pan-Indian cultural elements that are widely known across the country (e.g., festivals like Diwali, Holi).
+   - **State/Regional Level**:  
+     Specific to a particular state or region (e.g., Pongal in Tamil Nadu, Bihu in Assam).
+   - **Hyperlocal (City/Town)**:  
+     Culture that is deeply rooted in specific towns or cities, including dialects, local legends, and smaller festivals.
+   - **Diaspora Level**:  
+     Cultural practices adapted by the Indian diaspora globally, which may differ from the homeland practices.
+
+#### **4. Data Representation Methods**
+   - **Entity-Relationship Graphs**:  
+     Capturing relationships between cultural entities (e.g., relationships between a festival, region, and associated rituals).
+   - **Hierarchical Graphs**:  
+     Organizing data in a tree-like structure from broader cultural categories to specific artifacts (e.g., "Indian Festivals" -> "South Indian" -> "Pongal").
+   - **Social Network Graphs**:  
+     Mapping social and cultural relationships between people, practices, and artifacts to understand cultural influence and spread.
+   - **Temporal Graphs**:  
+     Tracking changes in cultural practices and artifacts over time (e.g., how a festival's rituals have evolved).
+
+#### **5. Engagement Techniques**
+   - **Gamification**:  
+     Involving participants in data collection through games (as seen in DOSA). Examples include clue-based guessing games or scavenger hunts for cultural artifacts.
+   - **Crowdsourcing Platforms**:  
+     Using platforms like Karya to engage communities in contributing their cultural knowledge.
+   - **Collaborative Annotation**:  
+     Encouraging people from different regions to contribute annotations, descriptions, and meanings for local cultural data.
+   - **Feedback Loops with Communities**:  
+     Allowing communities to review and validate the data, ensuring that the cultural artifacts are represented accurately.
+
+#### **6. Evaluation Frameworks**
+   - **Cultural Relevance**:  
+     Ensuring that the data collected and represented by LLMs accurately reflects cultural knowledge as understood by local communities.
+   - **LLM Factuality and Localization**:  
+     Evaluating how well LLMs localize global knowledge to an Indian context (e.g., LOFTI’s factuality and hyperlocality metrics).
+   - **Bias Mitigation**:  
+     Ensuring that LLMs do not propagate Western or urban biases in their understanding of Indian culture.
+   - **Multilingual Support**:  
+     Evaluating the performance of LLMs across various Indian languages and their ability to handle code-mixed data.
+
+#### **7. Challenges and Solutions**
+   - **Geographical Bias**:  
+     Mitigating biases toward English-speaking or Westernized urban centers by ensuring representation from rural and underrepresented regions.
+   - **Linguistic Diversity**:  
+     Accounting for the linguistic complexity of India, where many regions use multiple languages or dialects in communication.
+   - **Data Scarcity for Hyperlocal Cultures**:  
+     Addressing the lack of easily accessible data for smaller, hyperlocal cultures by using participatory methods or gamification.
+
+#### **8. Applications**
+   - **Cultural Preservation**:  
+     Building datasets to preserve and document dying traditions, languages, and practices.
+   - **Educational Tools**:  
+     Using collected data to build educational resources and interactive experiences to teach Indian cultural heritage.
+   - **Personalized LLM Responses**:  
+     Training LLMs to generate culturally relevant responses in local languages and dialects, tailored to specific regions.
+   - **Policy and Cultural Research**:  
+     Assisting governments, historians, and researchers in understanding and preserving diverse cultural identities through structured data collection.
+
+# **Example graph**
+
+```
+Indian Culture
+    |
+    |--- Religion
+    |      |--- Hinduism
+    |      |--- Islam
+    |      |--- Christianity
+    |      |--- Sikhism
+    |      |--- Buddhism
+    |      |--- Jainism
+    |      |--- Other (Zoroastrianism, Judaism, etc.)
+    |
+    |--- Languages
+    |      |--- Indo-Aryan Languages
+    |      |      |--- Hindi
+    |      |      |--- Bengali
+    |      |      |--- Marathi
+    |      |      |--- Gujarati
+    |      |      |--- Punjabi
+    |      |--- Dravidian Languages
+    |      |      |--- Tamil
+    |      |      |--- Telugu
+    |      |      |--- Kannada
+    |      |      |--- Malayalam
+    |      |--- Other Language Families
+    |      |      |--- Tibeto-Burman
+    |      |      |--- Austroasiatic
+    |      |--- Regional Dialects and Code-Mixing
+    |
+    |--- Festivals
+    |      |--- National Festivals
+    |      |      |--- Diwali
+    |      |      |--- Holi
+    |      |      |--- Eid
+    |      |      |--- Christmas
+    |      |      |--- Vaisakhi
+    |      |--- Regional Festivals
+    |      |      |--- Pongal (Tamil Nadu)
+    |      |      |--- Bihu (Assam)
+    |      |      |--- Durga Puja (West Bengal)
+    |      |      |--- Ganesh Chaturthi (Maharashtra)
+    |
+    |--- Food and Cuisine
+    |      |--- North Indian Cuisine
+    |      |      |--- Punjabi (e.g., Butter Chicken, Naan)
+    |      |      |--- Mughlai (e.g., Biryani, Kebabs)
+    |      |--- South Indian Cuisine
+    |      |      |--- Tamil Nadu (e.g., Dosa, Sambar)
+    |      |      |--- Kerala (e.g., Appam, Avial)
+    |      |--- East Indian Cuisine
+    |      |      |--- Bengali (e.g., Fish Curry, Mishti Doi)
+    |      |--- West Indian Cuisine
+    |      |      |--- Gujarati (e.g., Dhokla, Thepla)
+    |      |--- Street Food and Snacks
+    |      |      |--- Pani Puri
+    |      |      |--- Samosa
+    |
+    |--- Arts and Crafts
+    |      |--- Classical Music
+    |      |      |--- Hindustani
+    |      |      |--- Carnatic
+    |      |--- Classical Dance Forms
+    |      |      |--- Bharatanatyam
+    |      |      |--- Kathak
+    |      |      |--- Kathakali
+    |      |      |--- Odissi
+    |      |--- Handicrafts
+    |      |      |--- Madhubani Paintings
+    |      |      |--- Pattachitra
+    |      |      |--- Handloom Weaving
+    |
+    |--- Architecture and Monuments
+    |      |--- Temples (e.g., Brihadeeswarar Temple, Tamil Nadu)
+    |      |--- Mosques (e.g., Jama Masjid, Delhi)
+    |      |--- Historical Monuments
+    |      |      |--- Taj Mahal
+    |      |      |--- Red Fort
+    |      |--- Forts and Palaces
+    |      |      |--- Mehrangarh Fort
+    |      |      |--- City Palace, Jaipur
+    |
+    |--- Regional Variations
+    |      |--- North India
+    |      |      |--- Uttar Pradesh
+    |      |      |--- Delhi
+    |      |--- South India
+    |      |      |--- Tamil Nadu
+    |      |      |--- Karnataka
+    |      |--- East India
+    |      |      |--- West Bengal
+    |      |      |--- Odisha
+    |      |--- West India
+    |      |      |--- Maharashtra
+    |      |      |--- Gujarat
+    |
+    |--- Traditions and Rituals
+    |      |--- Weddings (e.g., Hindu, Muslim, Christian)
+    |      |--- Birth Ceremonies (e.g., Annaprashan, Namkaran)
+    |      |--- Funeral Rites (e.g., Antyeshti, Burial)
+
+```

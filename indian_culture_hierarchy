@@ -1,0 +1,192 @@
+// Indian Culture
+digraph {
+	A [label="Indian Culture" color=black fillcolor=lightgray style=filled]
+	B [label=Religion color=blue fillcolor=lightblue style=filled]
+	A -> B
+	B1 [label=Hinduism color=blue fillcolor=skyblue style=filled]
+	B2 [label=Islam color=blue fillcolor=skyblue style=filled]
+	B3 [label=Christianity color=blue fillcolor=skyblue style=filled]
+	B4 [label=Sikhism color=blue fillcolor=skyblue style=filled]
+	B5 [label=Buddhism color=blue fillcolor=skyblue style=filled]
+	B6 [label=Jainism color=blue fillcolor=skyblue style=filled]
+	B7 [label="Other (Zoroastrianism, Judaism, etc.)" color=blue fillcolor=skyblue style=filled]
+	B -> B1
+	B -> B2
+	B -> B3
+	B -> B4
+	B -> B5
+	B -> B6
+	B -> B7
+	C [label=Languages color=green fillcolor=lightgreen style=filled]
+	A -> C
+	C1 [label="Indo-Aryan Languages" color=green fillcolor=palegreen style=filled]
+	C2 [label="Dravidian Languages" color=green fillcolor=palegreen style=filled]
+	C3 [label="Other Language Families" color=green fillcolor=palegreen style=filled]
+	C -> C1
+	C -> C2
+	C -> C3
+	C1_1 [label=Hindi color=green fillcolor=palegreen style=filled]
+	C1_2 [label=Bengali color=green fillcolor=palegreen style=filled]
+	C1_3 [label=Marathi color=green fillcolor=palegreen style=filled]
+	C1_4 [label=Gujarati color=green fillcolor=palegreen style=filled]
+	C1_5 [label=Punjabi color=green fillcolor=palegreen style=filled]
+	C1 -> C1_1
+	C1 -> C1_2
+	C1 -> C1_3
+	C1 -> C1_4
+	C1 -> C1_5
+	C2_1 [label=Tamil color=green fillcolor=palegreen style=filled]
+	C2_2 [label=Telugu color=green fillcolor=palegreen style=filled]
+	C2_3 [label=Kannada color=green fillcolor=palegreen style=filled]
+	C2_4 [label=Malayalam color=green fillcolor=palegreen style=filled]
+	C2 -> C2_1
+	C2 -> C2_2
+	C2 -> C2_3
+	C2 -> C2_4
+	C3_1 [label="Tibeto-Burman" color=green fillcolor=palegreen style=filled]
+	C3_2 [label=Austroasiatic color=green fillcolor=palegreen style=filled]
+	C3 -> C3_1
+	C3 -> C3_2
+	D [label=Festivals color=red fillcolor=lightcoral style=filled]
+	A -> D
+	D1 [label="National Festivals" color=red fillcolor=salmon style=filled]
+	D2 [label="Regional Festivals" color=red fillcolor=salmon style=filled]
+	D -> D1
+	D -> D2
+	D1_1 [label=Diwali color=red fillcolor=salmon style=filled]
+	D1_2 [label=Holi color=red fillcolor=salmon style=filled]
+	D1_3 [label=Eid color=red fillcolor=salmon style=filled]
+	D1_4 [label=Christmas color=red fillcolor=salmon style=filled]
+	D1_5 [label=Vaisakhi color=red fillcolor=salmon style=filled]
+	D1 -> D1_1
+	D1 -> D1_2
+	D1 -> D1_3
+	D1 -> D1_4
+	D1 -> D1_5
+	D2_1 [label="Pongal (Tamil Nadu)" color=red fillcolor=salmon style=filled]
+	D2_2 [label="Bihu (Assam)" color=red fillcolor=salmon style=filled]
+	D2_3 [label="Durga Puja (West Bengal)" color=red fillcolor=salmon style=filled]
+	D2_4 [label="Ganesh Chaturthi (Maharashtra)" color=red fillcolor=salmon style=filled]
+	D2 -> D2_1
+	D2 -> D2_2
+	D2 -> D2_3
+	D2 -> D2_4
+	E [label="Food and Cuisine" color=orange fillcolor=wheat style=filled]
+	A -> E
+	E1 [label="North Indian Cuisine" color=orange fillcolor=moccasin style=filled]
+	E2 [label="South Indian Cuisine" color=orange fillcolor=moccasin style=filled]
+	E3 [label="East Indian Cuisine" color=orange fillcolor=moccasin style=filled]
+	E4 [label="West Indian Cuisine" color=orange fillcolor=moccasin style=filled]
+	E -> E1
+	E -> E2
+	E -> E3
+	E -> E4
+	E1_1 [label="Punjabi (Butter Chicken, Naan)" color=orange fillcolor=lightyellow style=filled]
+	E1_2 [label="Mughlai (Biryani, Kebabs)" color=orange fillcolor=lightyellow style=filled]
+	E2_1 [label="Tamil Nadu (Dosa, Sambar)" color=orange fillcolor=lightyellow style=filled]
+	E2_2 [label="Kerala (Appam, Avial)" color=orange fillcolor=lightyellow style=filled]
+	E3_1 [label="Bengali (Fish Curry, Mishti Doi)" color=orange fillcolor=lightyellow style=filled]
+	E4_1 [label="Gujarati (Dhokla, Thepla)" color=orange fillcolor=lightyellow style=filled]
+	E1 -> E1_1
+	E1 -> E1_2
+	E2 -> E2_1
+	E2 -> E2_2
+	E3 -> E3_1
+	E4 -> E4_1
+	F [label="Arts and Crafts" color=purple fillcolor=lavender style=filled]
+	A -> F
+	F1 [label="Classical Music" color=purple fillcolor=plum style=filled]
+	F2 [label="Classical Dance Forms" color=purple fillcolor=plum style=filled]
+	F3 [label=Handicrafts color=purple fillcolor=plum style=filled]
+	F -> F1
+	F -> F2
+	F -> F3
+	F1_1 [label=Hindustani color=purple fillcolor=orchid style=filled]
+	F1_2 [label=Carnatic color=purple fillcolor=orchid style=filled]
+	F2_1 [label=Bharatanatyam color=purple fillcolor=orchid style=filled]
+	F2_2 [label=Kathak color=purple fillcolor=orchid style=filled]
+	F2_3 [label=Kathakali color=purple fillcolor=orchid style=filled]
+	F2_4 [label=Odissi color=purple fillcolor=orchid style=filled]
+	F3_1 [label="Madhubani Paintings" color=purple fillcolor=orchid style=filled]
+	F3_2 [label=Pattachitra color=purple fillcolor=orchid style=filled]
+	F3_3 [label="Handloom Weaving" color=purple fillcolor=orchid style=filled]
+	F1 -> F1_1
+	F1 -> F1_2
+	F2 -> F2_1
+	F2 -> F2_2
+	F2 -> F2_3
+	F2 -> F2_4
+	F3 -> F3_1
+	F3 -> F3_2
+	F3 -> F3_3
+	G [label="Architecture and Monuments" color=teal fillcolor=lightcyan style=filled]
+	A -> G
+	G1 [label=Temples color=teal fillcolor=paleturquoise style=filled]
+	G2 [label=Mosques color=teal fillcolor=paleturquoise style=filled]
+	G3 [label="Historical Monuments" color=teal fillcolor=paleturquoise style=filled]
+	G4 [label="Forts and Palaces" color=teal fillcolor=paleturquoise style=filled]
+	G -> G1
+	G -> G2
+	G -> G3
+	G -> G4
+	G1_1 [label="Brihadeeswarar Temple (Tamil Nadu)" color=teal fillcolor=paleturquoise style=filled]
+	G2_1 [label="Jama Masjid (Delhi)" color=teal fillcolor=paleturquoise style=filled]
+	G3_1 [label="Taj Mahal" color=teal fillcolor=paleturquoise style=filled]
+	G3_2 [label="Red Fort" color=teal fillcolor=paleturquoise style=filled]
+	G4_1 [label="Mehrangarh Fort" color=teal fillcolor=paleturquoise style=filled]
+	G4_2 [label="City Palace, Jaipur" color=teal fillcolor=paleturquoise style=filled]
+	G1 -> G1_1
+	G2 -> G2_1
+	G3 -> G3_1
+	G3 -> G3_2
+	G4 -> G4_1
+	G4 -> G4_2
+	H [label="Regional Variations" color=brown fillcolor=peachpuff style=filled]
+	A -> H
+	H1 [label="North India" color=brown fillcolor=lightgoldenrod style=filled]
+	H2 [label="South India" color=brown fillcolor=lightgoldenrod style=filled]
+	H3 [label="East India" color=brown fillcolor=lightgoldenrod style=filled]
+	H4 [label="West India" color=brown fillcolor=lightgoldenrod style=filled]
+	H -> H1
+	H -> H2
+	H -> H3
+	H -> H4
+	H1_1 [label="Uttar Pradesh" color=brown fillcolor=lightgoldenrod style=filled]
+	H1_2 [label=Delhi color=brown fillcolor=lightgoldenrod style=filled]
+	H2_1 [label="Tamil Nadu" color=brown fillcolor=lightgoldenrod style=filled]
+	H2_2 [label=Karnataka color=brown fillcolor=lightgoldenrod style=filled]
+	H3_1 [label="West Bengal" color=brown fillcolor=lightgoldenrod style=filled]
+	H3_2 [label=Odisha color=brown fillcolor=lightgoldenrod style=filled]
+	H4_1 [label=Maharashtra color=brown fillcolor=lightgoldenrod style=filled]
+	H4_2 [label=Gujarat color=brown fillcolor=lightgoldenrod style=filled]
+	H1 -> H1_1
+	H1 -> H1_2
+	H2 -> H2_1
+	H2 -> H2_2
+	H3 -> H3_1
+	H3 -> H3_2
+	H4 -> H4_1
+	H4 -> H4_2
+	I [label="Traditions and Rituals" color=darkgreen fillcolor=lightgreen style=filled]
+	A -> I
+	I1 [label=Weddings color=darkgreen fillcolor=lightgreen style=filled]
+	I2 [label="Birth Ceremonies" color=darkgreen fillcolor=lightgreen style=filled]
+	I3 [label="Funeral Rites" color=darkgreen fillcolor=lightgreen style=filled]
+	I -> I1
+	I -> I2
+	I -> I3
+	I1_1 [label=Hindu color=darkgreen fillcolor=lightgreen style=filled]
+	I1_2 [label=Muslim color=darkgreen fillcolor=lightgreen style=filled]
+	I1_3 [label=Christian color=darkgreen fillcolor=lightgreen style=filled]
+	I2_1 [label=Annaprashan color=darkgreen fillcolor=lightgreen style=filled]
+	I2_2 [label=Namkaran color=darkgreen fillcolor=lightgreen style=filled]
+	I3_1 [label=Antyeshti color=darkgreen fillcolor=lightgreen style=filled]
+	I3_2 [label=Burial color=darkgreen fillcolor=lightgreen style=filled]
+	I1 -> I1_1
+	I1 -> I1_2
+	I1 -> I1_3
+	I2 -> I2_1
+	I2 -> I2_2
+	I3 -> I3_1
+	I3 -> I3_2
+}

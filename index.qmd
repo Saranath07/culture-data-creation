@@ -1,0 +1,37 @@
+---
+title: "Summaries of the papers"
+format: html
+toc: true
+toc-location: left
+toc-depth: 2
+---
+
+# Paper Summaries on Cultural Data and Language Models
+
+## LOFTI: Localization and Factuality Transfer to Indian Locales
+
+### Description:
+This paper introduces **LOFTI** (Localization and Factuality Transfer for Indian Locales), a benchmark designed to evaluate the ability of large language models (LLMs) to transfer factual knowledge across geographical regions, specifically from non-Indian locales to Indian ones. It highlights the limitations of existing LLMs in providing localized factual information, which often results in skewed or biased responses.
+
+### Summary:
+LOFTI focuses on testing LLMs' ability to generate localized, factual text for different regions of India. The dataset consists of pairs of factual statements from non-Indian source locations and corresponding localized statements for Indian locales. The entities cover a wide variety of categories, including food, monuments, and sports. The paper evaluates popular models like **Mixtral** and **GPT-4** on their performance across different regions in India, with varying levels of "hyperlocality" (country, state, city). The key contributions of LOFTI include an evaluation framework that addresses geographical bias and serves as a benchmark to improve localization performance for LLMs.
+
+## Beyond Metrics: Evaluating LLMs' Effectiveness in Culturally Nuanced, Low-Resource Real-World Scenarios
+
+### Description:
+This paper evaluates the effectiveness of seven prominent LLMs in processing sentiment analysis tasks in multilingual and code-mixed low-resource real-world settings. It particularly focuses on evaluating LLMs' performance in handling **multilingual WhatsApp chats**, including languages like Swahili, English, and Sheng.
+
+### Summary:
+The paper explores how well LLMs perform in culturally and linguistically nuanced low-resource scenarios. Using a dataset derived from WhatsApp conversations that feature a mix of Swahili, English, and Sheng, the study evaluates seven models, including **GPT-4**, **GPT-3.5-Turbo**, and **Mixtral-8x7b**, for their ability to handle linguistic and cultural nuances. While some models, like GPT-4, demonstrated proficiency in handling diverse linguistic inputs, all models struggled with cultural context and non-English settings. The study also incorporates qualitative assessments of the explanations provided by LLMs for their predictions, offering insights into their transparency and ability to incorporate cultural nuances.
+
+## DOSA: A Dataset of Social Artifacts from Different Indian Geographical Subcultures
+
+### Description:
+The **DOSA** paper presents a dataset created using participatory research methods, collecting cultural artifacts from 19 different Indian subcultures. The dataset includes 615 social artifacts, and the authors explore how well LLMs can understand and generate content based on these cultural nuances.
+
+### Summary:
+The DOSA dataset is developed to benchmark LLMs' understanding of local cultural knowledge, focusing on social artifacts like local food, festivals, and traditional practices from various Indian subcultures. The authors use a **gamified framework** involving collective sensemaking, where community participants contribute artifact descriptions, ensuring cultural alignment with the community's understanding. The paper also benchmarks the performance of four popular LLMs, including **GPT-4** and **LLAMA2**, finding significant variation in their ability to infer and handle cultural data. The DOSA dataset addresses the gap in culturally aware language models, emphasizing the importance of integrating non-Western, community-generated knowledge into LLM training.
+
+---
+
+This page summarizes three papers related to cultural data collection and evaluating language models for localized and culturally nuanced tasks.
