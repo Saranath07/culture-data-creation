@@ -1,0 +1,26 @@
+# Indian Context Taxonomy
+
+| Field                 | Definition                                               | Example                                                   |
+|-----------------------|----------------------------------------------------------|-----------------------------------------------------------|
+| **Cultural Group**    | Groups of people with similar cultural backgrounds within India | Punjabi, Bengali, Tamilian, Gujarati, tribal communities |
+| **Context**           | Settings or occasions where the behavior takes place     | During Diwali celebrations, at a traditional wedding, in rural villages |
+| **Goal**              | What the behavior aims to achieve                        | To seek blessings, to celebrate harvest, to honor deities |
+| **Actor**             | Who exhibits the behavior                                | Farmers, students, artisans, family elders               |
+| **Recipient**         | Recipient of the action                                  | Guests, deities, ancestors, community members            |
+| **Relation**          | Relation between the actor and the recipient             | Teacher to student, sibling to sibling, neighbor to neighbor |
+| **Actor’s Behavior**  | Behavior of the actor                                    | Touching feet of elders, performing classical dance, cooking traditional meals |
+| **Recipient’s Behavior** | Behavior of the recipient                            | Giving blessings, offering prasad, participating in rituals |
+| **Festival or Occasion** | Specific Indian festivals or events associated with the behavior | Holi, Eid, Pongal, Navratri                              |
+| **Religious Context** | Religious background related to the behavior             | Hindu rituals, Sikh practices, Buddhist meditation        |
+| **Language**          | Language in which the behavior or communication takes place | Hindi, Tamil, Bengali, Marathi                            |
+| **Regional Variations** | Differences in customs across regions of India         | Different wedding rituals in North vs. South India, varied dress styles |
+| **Cuisine**           | Types of food associated with the behavior               | Serving biryani, preparing sweets like laddoo, offering chai |
+| **Dress Code**        | Traditional attire related to the behavior or context    | Wearing sarees, dhotis, turbans, traditional jewelry      |
+| **Social Norms**      | Societal expectations or norms influencing the behavior  | Arranged marriages, joint family living, respecting elders |
+| **Historical Background** | Historical events or traditions influencing the behavior | Celebrating Independence Day, traditional crafts like pottery |
+| **Other Description** | Anything that cannot fit into the other fields           | India is known for its diversity and unity                |
+| **Topic**             | Topic                                                    | Ayurveda and wellness, Bollywood cinema, yoga traditions  |
+| **Agreement**         | Agreement level, % of people who agree                   | A one-decimal float between 0 and 1, like 0.8             |
+
+
+
