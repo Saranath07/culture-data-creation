@@ -1,0 +1,755 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Traditional clothing often reflects the culture and climate of a region. Can you describe any traditional garments unique to your area and the occasions they are worn?",
+        "context": "traditional garments"
+      },
+      {
+        "id": 2,
+        "question": "How have modern fashion trends influenced the traditional attire in your region? Are there any blends of modern and traditional styles?",
+        "context": "modern influence"
+      },
+      {
+        "id": 3,
+        "question": "What materials are commonly used in the traditional clothing of your region? Has this changed over time?",
+        "context": "materials used"
+      },
+      {
+        "id": 4,
+        "question": "Colors and patterns play a significant role in attire. What are the culturally significant colors and patterns in your traditional clothing, and what do they symbolize?",
+        "context": "colors and patterns"
+      },
+      {
+        "id": 5,
+        "question": "During festivals and ceremonies, attire often holds special significance. Can you share how traditional clothing is incorporated into these events in your region?",
+        "context": "festivals and ceremonies"
+      },
+      {
+        "id": 6,
+        "question": "Are there specific clothing styles or garments that are unique to different genders in your region? How do they differ?",
+        "context": "gender-specific clothing"
+      },
+      {
+        "id": 7,
+        "question": "Within your region, are there variations in attire based on different communities or sub-regions? Can you elaborate?",
+        "context": "regional variations"
+      },
+      {
+        "id": 8,
+        "question": "How has globalization impacted the traditional attire in your region? Are traditional garments still widely worn?",
+        "context": "globalization impact"
+      },
+      {
+        "id": 9,
+        "question": "Sustainable fashion is gaining importance. How do traditional clothing practices in your region contribute to sustainability?",
+        "context": "sustainable fashion"
+      },
+      {
+        "id": 10,
+        "question": "Accessories and jewelry often complement traditional attire. Can you describe the traditional accessories used in your region and their significance?",
+        "context": "accessories and jewelry"
+      },
+      {
+        "id": 11,
+        "question": "What role does tailoring and local craftsmanship play in maintaining the traditional attire of your region?",
+        "context": "tailoring and craftsmanship"
+      },
+      {
+        "id": 12,
+        "question": "Are there any specific attire styles that have evolved uniquely in your region compared to other parts of India?",
+        "context": "unique regional styles"
+      },
+      {
+        "id": 13,
+        "question": "How is traditional attire passed down through generations in your family or community?",
+        "context": "tradition and heritage"
+      },
+      {
+        "id": 14,
+        "question": "Can you share any stories or legends associated with traditional garments in your region?",
+        "context": "stories and legends"
+      },
+      {
+        "id": 15,
+        "question": "How do traditional and modern attire coexist in everyday life in your region?",
+        "context": "coexistence of styles"
+      },
+      {
+        "id": 16,
+        "question": "What are the traditional methods used to dye fabrics in your region, and how have they been preserved?",
+        "context": "fabric dyeing methods"
+      },
+      {
+        "id": 17,
+        "question": "How does the climate of your region influence the types of clothing worn throughout the year?",
+        "context": "climate influence"
+      },
+      {
+        "id": 18,
+        "question": "Are there any specific traditional garments reserved for weddings or other significant life events in your region?",
+        "context": "special occasions attire"
+      },
+      {
+        "id": 19,
+        "question": "How has the younger generation in your region responded to traditional attire? Are they embracing it or moving towards modern styles?",
+        "context": "generational attitudes"
+      },
+      {
+        "id": 20,
+        "question": "What role do festivals play in the preservation and promotion of traditional attire in your region?",
+        "context": "festival role"
+      },
+      {
+        "id": 21,
+        "question": "Are there any traditional embroidery or embellishment techniques unique to your region's attire?",
+        "context": "embroidery techniques"
+      },
+      {
+        "id": 22,
+        "question": "How do traditional attire practices in your region contribute to the local economy?",
+        "context": "economic contribution"
+      },
+      {
+        "id": 23,
+        "question": "What are the traditional footwear styles in your region, and how do they complement the attire?",
+        "context": "traditional footwear"
+      },
+      {
+        "id": 24,
+        "question": "How have historical events shaped the traditional attire in your region?",
+        "context": "historical influence"
+      },
+      {
+        "id": 25,
+        "question": "Can you describe the process of making a traditional garment in your region from start to finish?",
+        "context": "garment making process"
+      },
+      {
+        "id": 26,
+        "question": "Are there any traditional headwear or headdresses specific to your region? What is their significance?",
+        "context": "traditional headwear"
+      },
+      {
+        "id": 27,
+        "question": "How is traditional attire showcased in local art, literature, or media in your region?",
+        "context": "attire in culture"
+      },
+      {
+        "id": 28,
+        "question": "What efforts are being made to preserve traditional attire in your region for future generations?",
+        "context": "preservation efforts"
+      },
+      {
+        "id": 29,
+        "question": "How do traditional attire practices influence modern fashion designers in your region?",
+        "context": "influence on designers"
+      },
+      {
+        "id": 30,
+        "question": "Are there any traditional clothing items in your region that are considered symbols of status or prestige?",
+        "context": "symbols of status"
+      },
+      {
+        "id": 31,
+        "question": "How do traditional attire practices differ between urban and rural areas in your region?",
+        "context": "urban vs rural"
+      },
+      {
+        "id": 32,
+        "question": "What role do women play in the creation and preservation of traditional attire in your region?",
+        "context": "women's role"
+      },
+      {
+        "id": 33,
+        "question": "Are there any traditional accessories that are passed down as heirlooms in your region?",
+        "context": "heirloom accessories"
+      },
+      {
+        "id": 34,
+        "question": "How do traditional attire practices accommodate different age groups in your region?",
+        "context": "age-specific attire"
+      },
+      {
+        "id": 35,
+        "question": "What are the traditional methods of caring for and maintaining garments in your region?",
+        "context": "garment maintenance"
+      },
+      {
+        "id": 36,
+        "question": "Are there any traditional garments in your region that are believed to bring good luck or ward off evil?",
+        "context": "symbolic garments"
+      },
+      {
+        "id": 37,
+        "question": "How is traditional attire integrated into modern professions or workplaces in your region?",
+        "context": "attire in professions"
+      },
+      {
+        "id": 38,
+        "question": "Can you describe any traditional layering techniques used in clothing in your region?",
+        "context": "layering techniques"
+      },
+      {
+        "id": 39,
+        "question": "What are the traditional patterns or motifs commonly found in your region's attire, and what do they represent?",
+        "context": "patterns and motifs"
+      },
+      {
+        "id": 40,
+        "question": "How do traditional attire practices reflect the values and beliefs of your community?",
+        "context": "cultural values"
+      },
+      {
+        "id": 41,
+        "question": "Are there any traditional attire practices that are unique to certain seasons or weather conditions in your region?",
+        "context": "seasonal attire"
+      },
+      {
+        "id": 42,
+        "question": "How do traditional garments in your region accommodate for comfort and functionality in daily activities?",
+        "context": "comfort and functionality"
+      },
+      {
+        "id": 43,
+        "question": "What are the traditional methods of fabric production or weaving used in your region?",
+        "context": "fabric production"
+      },
+      {
+        "id": 44,
+        "question": "How has technology influenced the creation and design of traditional attire in your region?",
+        "context": "technological influence"
+      },
+      {
+        "id": 45,
+        "question": "Are there any traditional attire practices that have been adapted or modified over time to suit modern lifestyles?",
+        "context": "adaptation of traditions"
+      },
+      {
+        "id": 46,
+        "question": "What traditional garments are considered essential for important ceremonies or rituals in your region?",
+        "context": "essential ceremonial garments"
+      },
+      {
+        "id": 47,
+        "question": "How do traditional attire practices promote social cohesion or community identity in your region?",
+        "context": "social cohesion"
+      },
+      {
+        "id": 48,
+        "question": "Are there any specific traditional garments that are worn during rites of passage, such as births, marriages, or funerals?",
+        "context": "rites of passage attire"
+      },
+      {
+        "id": 49,
+        "question": "How do traditional attire practices influence the design and aesthetics of modern fashion in your region?",
+        "context": "influence on aesthetics"
+      },
+      {
+        "id": 50,
+        "question": "Can you share any traditional attire practices that are linked to specific professions or trades in your region?",
+        "context": "profession-specific attire"
+      },
+      {
+        "id": 51,
+        "question": "How do traditional attire practices incorporate symbolic elements or motifs in your region?",
+        "context": "symbolic elements"
+      },
+      {
+        "id": 52,
+        "question": "Are there any traditional garments in your region that are designed to be worn in specific ways, such as draping or wrapping?",
+        "context": "garment design"
+      },
+      {
+        "id": 53,
+        "question": "What role do traditional attire practices play in maintaining cultural heritage and identity in your region?",
+        "context": "cultural heritage"
+      },
+      {
+        "id": 54,
+        "question": "How do traditional attire practices address issues of modesty or propriety in your region?",
+        "context": "modesty and propriety"
+      },
+      {
+        "id": 55,
+        "question": "Are there any traditional attire practices that involve the use of specific textiles or fabrics native to your region?",
+        "context": "native textiles"
+      },
+      {
+        "id": 56,
+        "question": "How do traditional attire practices accommodate for physical activities or occupations common in your region?",
+        "context": "functional attire"
+      },
+      {
+        "id": 57,
+        "question": "Can you describe any traditional attire styles that are specific to different age groups within your community?",
+        "context": "age-specific styles"
+      },
+      {
+        "id": 58,
+        "question": "What are the traditional methods of embellishing or decorating garments in your region?",
+        "context": "garment embellishment"
+      },
+      {
+        "id": 59,
+        "question": "How do traditional attire practices influence the way people perceive beauty and aesthetics in your region?",
+        "context": "beauty standards"
+      },
+      {
+        "id": 60,
+        "question": "Are there any traditional attire practices that signify marital status or other social statuses in your region?",
+        "context": "social status indicators"
+      },
+      {
+        "id": 61,
+        "question": "How do traditional attire practices incorporate local flora and fauna into their designs?",
+        "context": "nature-inspired designs"
+      },
+      {
+        "id": 62,
+        "question": "Can you describe any traditional attire practices that have been influenced by neighboring regions or cultures?",
+        "context": "cultural influences"
+      },
+      {
+        "id": 63,
+        "question": "What are the traditional methods of dyeing fabrics in your region, and how do they contribute to the uniqueness of the attire?",
+        "context": "fabric dyeing"
+      },
+      {
+        "id": 64,
+        "question": "How do traditional attire practices accommodate for different body types or sizes in your region?",
+        "context": "body inclusivity"
+      },
+      {
+        "id": 65,
+        "question": "Are there any traditional attire practices that involve the use of specific tools or equipment during the wearing or creation of garments?",
+        "context": "attire tools and equipment"
+      },
+      {
+        "id": 66,
+        "question": "How do traditional attire practices reflect the socio-economic status of individuals in your region?",
+        "context": "socio-economic reflection"
+      },
+      {
+        "id": 67,
+        "question": "Can you share any traditional attire practices that are specific to certain communities or castes within your region?",
+        "context": "community-specific attire"
+      },
+      {
+        "id": 68,
+        "question": "How do traditional attire practices influence the way people interact and communicate in your region?",
+        "context": "social interaction"
+      },
+      {
+        "id": 69,
+        "question": "Are there any traditional garments that are considered heirlooms and are passed down through generations in your family?",
+        "context": "heirloom garments"
+      },
+      {
+        "id": 70,
+        "question": "How do traditional attire practices incorporate elements of spirituality or religion in your region?",
+        "context": "spiritual elements"
+      },
+      {
+        "id": 71,
+        "question": "Can you describe any traditional attire practices that are linked to agricultural or farming activities in your region?",
+        "context": "agricultural attire"
+      },
+      {
+        "id": 72,
+        "question": "How do traditional attire practices influence the design and use of accessories like belts, sashes, or scarves in your region?",
+        "context": "accessory design"
+      },
+      {
+        "id": 73,
+        "question": "Are there any traditional attire practices that are unique to specific sub-regions or villages within your larger region?",
+        "context": "sub-regional attire"
+      },
+      {
+        "id": 74,
+        "question": "How do traditional attire practices incorporate storytelling or narrative elements in their designs?",
+        "context": "storytelling in attire"
+      },
+      {
+        "id": 75,
+        "question": "Can you share any traditional attire practices that are associated with rites of passage, such as coming-of-age ceremonies?",
+        "context": "rites of passage attire"
+      },
+      {
+        "id": 76,
+        "question": "How do traditional attire practices address the balance between functionality and aesthetics in your region?",
+        "context": "functionality vs aesthetics"
+      },
+      {
+        "id": 77,
+        "question": "Are there any traditional attire practices that involve the use of specific fabrics or textiles during certain times of the year?",
+        "context": "seasonal textiles"
+      },
+      {
+        "id": 78,
+        "question": "How do traditional attire practices incorporate elements of craftsmanship and handiwork in your region?",
+        "context": "craftsmanship elements"
+      },
+      {
+        "id": 79,
+        "question": "Can you describe any traditional attire practices that involve the use of natural dyes or eco-friendly materials?",
+        "context": "natural dyes"
+      },
+      {
+        "id": 80,
+        "question": "How do traditional attire practices influence the way people perceive and value their heritage in your region?",
+        "context": "heritage value"
+      },
+      {
+        "id": 81,
+        "question": "Are there any traditional attire practices that are performed or worn during specific cultural performances or dances in your region?",
+        "context": "attire in performances"
+      },
+      {
+        "id": 82,
+        "question": "How do traditional attire practices promote gender equality or distinct gender roles in your region?",
+        "context": "gender roles"
+      },
+      {
+        "id": 83,
+        "question": "Can you share any traditional attire practices that are associated with hospitality or welcoming guests in your region?",
+        "context": "hospitality attire"
+      },
+      {
+        "id": 84,
+        "question": "What are the traditional methods of preserving and storing garments in your region to maintain their quality and longevity?",
+        "context": "garment preservation"
+      },
+      {
+        "id": 85,
+        "question": "How do traditional attire practices incorporate elements of local wildlife or natural scenery into their designs?",
+        "context": "nature-inspired elements"
+      },
+      {
+        "id": 86,
+        "question": "Are there any traditional attire practices that have been influenced by historical trade or interaction with other cultures?",
+        "context": "trade influence"
+      },
+      {
+        "id": 87,
+        "question": "How do traditional attire practices support local artisans and craftsmen in your region?",
+        "context": "supporting artisans"
+      },
+      {
+        "id": 88,
+        "question": "Can you describe any traditional attire practices that are specific to certain religious or spiritual communities in your region?",
+        "context": "religious attire"
+      },
+      {
+        "id": 89,
+        "question": "How do traditional attire practices influence the overall lifestyle and daily activities of people in your region?",
+        "context": "lifestyle influence"
+      },
+      {
+        "id": 90,
+        "question": "Are there any traditional attire practices that involve collaborative creation or community participation in your region?",
+        "context": "collaborative creation"
+      },
+      {
+        "id": 91,
+        "question": "How do traditional attire practices address the need for adaptability and versatility in different social settings?",
+        "context": "adaptability"
+      },
+      {
+        "id": 92,
+        "question": "Can you share any traditional attire practices that have been adapted for contemporary use without losing their cultural significance?",
+        "context": "adapted traditions"
+      },
+      {
+        "id": 93,
+        "question": "How do traditional attire practices influence the way people express their personal identity and individuality in your region?",
+        "context": "personal identity"
+      },
+      {
+        "id": 94,
+        "question": "Are there any traditional attire practices that are linked to specific seasons or agricultural cycles in your region?",
+        "context": "seasonal cycles"
+      },
+      {
+        "id": 95,
+        "question": "How do traditional attire practices incorporate elements of local folklore or mythology in their designs?",
+        "context": "folklore elements"
+      },
+      {
+        "id": 96,
+        "question": "Can you describe any traditional attire practices that involve the use of specific accessories or adornments?",
+        "context": "attire accessories"
+      },
+      {
+        "id": 97,
+        "question": "How do traditional attire practices influence the way people celebrate and commemorate important events in your region?",
+        "context": "celebratory influence"
+      },
+      {
+        "id": 98,
+        "question": "Are there any traditional attire practices that have been passed down through oral traditions or family customs in your region?",
+        "context": "oral traditions"
+      },
+      {
+        "id": 99,
+        "question": "How do traditional attire practices accommodate for changes in societal norms or values in your region?",
+        "context": "societal changes"
+      },
+      {
+        "id": 100,
+        "question": "Can you share any traditional attire practices that are performed or worn during harvest festivals or agricultural celebrations?",
+        "context": "harvest festivals"
+      },
+      {
+        "id": 101,
+        "question": "How do traditional attire practices promote environmental consciousness or sustainable living in your region?",
+        "context": "environmental consciousness"
+      },
+      {
+        "id": 102,
+        "question": "Are there any traditional attire practices that involve the use of specific colors to signify different seasons or events?",
+        "context": "color symbolism"
+      },
+      {
+        "id": 103,
+        "question": "How do traditional attire practices influence the way people interact with each other in social gatherings in your region?",
+        "context": "social interaction"
+      },
+      {
+        "id": 104,
+        "question": "Can you describe any traditional attire practices that are associated with specific professions or trades in your region?",
+        "context": "professional attire"
+      },
+      {
+        "id": 105,
+        "question": "How do traditional attire practices incorporate elements of craftsmanship, such as weaving or embroidery, in your region?",
+        "context": "craftsmanship elements"
+      },
+      {
+        "id": 106,
+        "question": "Are there any traditional attire practices that involve the use of symbolic motifs or designs in your region?",
+        "context": "symbolic motifs"
+      },
+      {
+        "id": 107,
+        "question": "How do traditional attire practices address the need for both aesthetic appeal and practicality in daily wear?",
+        "context": "aesthetic and practicality"
+      },
+      {
+        "id": 108,
+        "question": "Can you share any traditional attire practices that are performed during rites of passage, such as coming-of-age ceremonies?",
+        "context": "rites of passage"
+      },
+      {
+        "id": 109,
+        "question": "How do traditional attire practices influence the design and creation of garments in your region's fashion industry?",
+        "context": "fashion industry influence"
+      },
+      {
+        "id": 110,
+        "question": "Are there any traditional attire practices that are linked to specific religious or spiritual beliefs in your region?",
+        "context": "spiritual beliefs"
+      },
+      {
+        "id": 111,
+        "question": "How do traditional attire practices promote cultural pride and identity among the younger generation in your region?",
+        "context": "cultural pride"
+      },
+      {
+        "id": 112,
+        "question": "Can you describe any traditional attire practices that are performed during specific community events or gatherings?",
+        "context": "community events"
+      },
+      {
+        "id": 113,
+        "question": "How do traditional attire practices incorporate elements of storytelling or narrative in their designs?",
+        "context": "narrative designs"
+      },
+      {
+        "id": 114,
+        "question": "Are there any traditional attire practices that involve the use of natural materials or eco-friendly fabrics in your region?",
+        "context": "eco-friendly materials"
+      },
+      {
+        "id": 115,
+        "question": "How do traditional attire practices influence the way people perceive fashion and style in your region?",
+        "context": "fashion perception"
+      },
+      {
+        "id": 116,
+        "question": "Can you share any traditional attire practices that are associated with specific cultural rituals or ceremonies?",
+        "context": "cultural rituals"
+      },
+      {
+        "id": 117,
+        "question": "How do traditional attire practices accommodate for different cultural or religious customs in your region?",
+        "context": "cultural accommodation"
+      },
+      {
+        "id": 118,
+        "question": "Are there any traditional attire practices that involve collaborative design or community participation in your region?",
+        "context": "collaborative design"
+      },
+      {
+        "id": 119,
+        "question": "How do traditional attire practices promote the use of local resources and support local economies in your region?",
+        "context": "local economy support"
+      },
+      {
+        "id": 120,
+        "question": "Can you describe any traditional attire practices that are specific to certain seasons or weather conditions in your region?",
+        "context": "season-specific attire"
+      },
+      {
+        "id": 121,
+        "question": "How do traditional attire practices influence the way people express their creativity and individuality in your region?",
+        "context": "creative expression"
+      },
+      {
+        "id": 122,
+        "question": "Are there any traditional attire practices that are performed or worn during specific agricultural activities in your region?",
+        "context": "agricultural attire"
+      },
+      {
+        "id": 123,
+        "question": "How do traditional attire practices incorporate elements of local folklore or mythology in their designs?",
+        "context": "folklore incorporation"
+      },
+      {
+        "id": 124,
+        "question": "Can you share any traditional attire practices that are associated with specific cultural symbols or emblems in your region?",
+        "context": "cultural symbols"
+      },
+      {
+        "id": 125,
+        "question": "How do traditional attire practices address the balance between preserving heritage and embracing modernity in your region?",
+        "context": "heritage vs modernity"
+      },
+      {
+        "id": 126,
+        "question": "Are there any traditional attire practices that involve the use of specific tools or techniques unique to your region?",
+        "context": "unique tools and techniques"
+      },
+      {
+        "id": 127,
+        "question": "How do traditional attire practices influence the way people celebrate and commemorate significant milestones in your region?",
+        "context": "milestone celebrations"
+      },
+      {
+        "id": 128,
+        "question": "Can you describe any traditional attire practices that involve the use of symbolic colors or patterns in your region?",
+        "context": "symbolic colors"
+      },
+      {
+        "id": 129,
+        "question": "How do traditional attire practices promote social cohesion and a sense of community in your region?",
+        "context": "social cohesion"
+      },
+      {
+        "id": 130,
+        "question": "Are there any traditional attire practices that are specific to certain life stages or age groups in your region?",
+        "context": "age-specific practices"
+      },
+      {
+        "id": 131,
+        "question": "How do traditional attire practices incorporate elements of local craftsmanship and artisanal skills in your region?",
+        "context": "craftsmanship incorporation"
+      },
+      {
+        "id": 132,
+        "question": "Can you share any traditional attire practices that are linked to specific environmental or natural features in your region?",
+        "context": "environmental linkage"
+      },
+      {
+        "id": 133,
+        "question": "How do traditional attire practices influence the way people perceive and engage with fashion in your region?",
+        "context": "fashion engagement"
+      },
+      {
+        "id": 134,
+        "question": "Are there any traditional attire practices that involve the use of specific ornaments or jewelry in your region?",
+        "context": "traditional ornaments"
+      },
+      {
+        "id": 135,
+        "question": "How do traditional attire practices promote the use of indigenous fabrics and textiles in your region?",
+        "context": "indigenous fabrics"
+      },
+      {
+        "id": 136,
+        "question": "Can you describe any traditional attire practices that are associated with specific social or community roles in your region?",
+        "context": "social roles"
+      },
+      {
+        "id": 137,
+        "question": "How do traditional attire practices address the needs of both functionality and cultural expression in your region?",
+        "context": "functional expression"
+      },
+      {
+        "id": 138,
+        "question": "Are there any traditional attire practices that involve the use of specific accessories or adornments unique to your region?",
+        "context": "unique accessories"
+      },
+      {
+        "id": 139,
+        "question": "How do traditional attire practices influence the way people perceive their cultural identity and heritage in your region?",
+        "context": "cultural identity"
+      },
+      {
+        "id": 140,
+        "question": "Can you share any traditional attire practices that are performed during specific cultural or religious ceremonies in your region?",
+        "context": "ceremonial attire"
+      },
+      {
+        "id": 141,
+        "question": "How do traditional attire practices incorporate elements of local craftsmanship and artistic expression in your region?",
+        "context": "artistic expression"
+      },
+      {
+        "id": 142,
+        "question": "Are there any traditional attire practices that involve the use of specific patterns or designs that are unique to your region?",
+        "context": "unique patterns"
+      },
+      {
+        "id": 143,
+        "question": "How do traditional attire practices influence the way people interact and communicate within their community in your region?",
+        "context": "community interaction"
+      },
+      {
+        "id": 144,
+        "question": "Can you describe any traditional attire practices that are associated with specific agricultural or farming activities in your region?",
+        "context": "farming attire"
+      },
+      {
+        "id": 145,
+        "question": "How do traditional attire practices promote the use of sustainable materials and eco-friendly practices in your region?",
+        "context": "sustainable practices"
+      },
+      {
+        "id": 146,
+        "question": "Are there any traditional attire practices that involve the use of specific tools or equipment for wearing or creating garments in your region?",
+        "context": "attire tools"
+      },
+      {
+        "id": 147,
+        "question": "How do traditional attire practices influence the way people perceive beauty and elegance in your region?",
+        "context": "beauty standards"
+      },
+      {
+        "id": 148,
+        "question": "Can you share any traditional attire practices that are performed during specific seasonal festivals or events in your region?",
+        "context": "seasonal festivals"
+      },
+      {
+        "id": 149,
+        "question": "How do traditional attire practices incorporate elements of local heritage and historical influences in their designs?",
+        "context": "heritage and history"
+      },
+      {
+        "id": 150,
+        "question": "Are there any traditional attire practices that have been adapted to suit modern lifestyles while retaining their cultural significance in your region?",
+        "context": "modern adaptations"
+      }
+    ]
+  }
+  

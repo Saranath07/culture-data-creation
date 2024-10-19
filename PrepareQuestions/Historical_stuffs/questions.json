@@ -1,0 +1,755 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Every place has events that shape its identity. Could you share a significant historical event from your region that you believe has deeply influenced the local culture?",
+        "context": "historical events"
+      },
+      {
+        "id": 2,
+        "question": "Ancient monuments often tell fascinating stories. Are there any historical sites or archaeological landmarks in your area that hold special meaning for the locals?",
+        "context": "monuments and landmarks"
+      },
+      {
+        "id": 3,
+        "question": "Traditional festivals can have rich historical backgrounds. Can you describe any local festivals or rituals in your community that originated from historical events? How are they celebrated today?",
+        "context": "festivals and rituals"
+      },
+      {
+        "id": 4,
+        "question": "Historical figures can leave a lasting legacy. Are there any renowned personalities from your region who have significantly contributed to local or national history?",
+        "context": "historical figures"
+      },
+      {
+        "id": 5,
+        "question": "Folklore and legends add color to our heritage. Is there a local legend or myth from your area that has been passed down through generations?",
+        "context": "folklore and legends"
+      },
+      {
+        "id": 6,
+        "question": "Language often evolves with history. How has the history of your region influenced the language or dialect spoken by the people there? Are there unique expressions used locally?",
+        "context": "language and dialects"
+      },
+      {
+        "id": 7,
+        "question": "Preserving history is important for future generations. Are there any museums or community efforts in your area dedicated to keeping your local history alive?",
+        "context": "museums and preservation"
+      },
+      {
+        "id": 8,
+        "question": "Trade routes can shape a region's development. Can you share stories about any historical trade routes or markets that were significant in your region's past?",
+        "context": "trade routes and markets"
+      },
+      {
+        "id": 9,
+        "question": "Architecture reflects cultural evolution. How do the buildings or architectural styles in your region showcase its historical and cultural journey?",
+        "context": "architecture"
+      },
+      {
+        "id": 10,
+        "question": "Your region might have contributed uniquely to India's history. In what ways has your area influenced the broader history of the country, and how is this heritage celebrated today?",
+        "context": "regional contributions"
+      },
+      {
+        "id": 11,
+        "question": "Traditional arts and crafts often have historical roots. Are there any unique crafts or art forms in your region that originated from historical practices?",
+        "context": "arts and crafts"
+      },
+      {
+        "id": 12,
+        "question": "Music and dance can tell historical tales. Can you tell us about any traditional music or dance forms in your area that have been passed down through generations?",
+        "context": "music and dance"
+      },
+      {
+        "id": 13,
+        "question": "Historical conflicts shape communities. Are there any stories of battles or alliances in your region's past that are still remembered today?",
+        "context": "conflicts and alliances"
+      },
+      {
+        "id": 14,
+        "question": "Education has a long history in India. Do you know of any ancient schools or centers of learning that existed in your area?",
+        "context": "education history"
+      },
+      {
+        "id": 15,
+        "question": "Food can have historical significance. Are there any traditional dishes in your region with historical origins or stories behind them?",
+        "context": "culinary history"
+      },
+      {
+        "id": 16,
+        "question": "Migration influences culture. Has your area experienced significant migrations in the past? How has this shaped the local traditions and customs?",
+        "context": "migration"
+      },
+      {
+        "id": 17,
+        "question": "Religious sites often hold historical importance. Are there any ancient temples, mosques, or churches in your region? What is their history and significance?",
+        "context": "religious sites"
+      },
+      {
+        "id": 18,
+        "question": "Old manuscripts can reveal much about the past. Have any ancient writings or inscriptions been found in your area? What do they tell about your region's history?",
+        "context": "manuscripts and inscriptions"
+      },
+      {
+        "id": 19,
+        "question": "The environment plays a role in history. How has the natural landscape of your region influenced its historical development?",
+        "context": "environmental history"
+      },
+      {
+        "id": 20,
+        "question": "Traditional attire often has historical roots. Are there any historical garments or styles of dress unique to your region? When are they worn today?",
+        "context": "traditional attire"
+      },
+      {
+        "id": 21,
+        "question": "Transportation methods evolve over time. What were the traditional modes of transport in your area historically? Do any of these still exist or are celebrated?",
+        "context": "transportation history"
+      },
+      {
+        "id": 22,
+        "question": "Family histories can reflect larger events. Does your family have any historical stories or connections to significant events in your region?",
+        "context": "family history"
+      },
+      {
+        "id": 23,
+        "question": "Economic activities shape societies. What were the main industries or trades in your area in the past? How have they changed over time?",
+        "context": "economic history"
+      },
+      {
+        "id": 24,
+        "question": "Colonial history has left marks across India. Was your region affected by colonial rule or foreign invasions? How has that influenced local culture?",
+        "context": "colonial history"
+      },
+      {
+        "id": 25,
+        "question": "Communities often overcome challenges together. Have there been any significant natural disasters in your region's history? How did people come together afterward?",
+        "context": "natural disasters"
+      },
+      {
+        "id": 26,
+        "question": "Traditional medicine can be deeply historical. Are there any unique healing practices or remedies from your area that have been used historically?",
+        "context": "traditional medicine"
+      },
+      {
+        "id": 27,
+        "question": "Social structures evolve over time. How have historical community organizations or caste systems influenced your region?",
+        "context": "social structures"
+      },
+      {
+        "id": 28,
+        "question": "Trade goods can define a region. Was your area known for producing or trading specific items historically? What impact did that have?",
+        "context": "trade goods"
+      },
+      {
+        "id": 29,
+        "question": "Migration stories are part of our heritage. Are there tales of people from your region migrating elsewhere or others settling in your area?",
+        "context": "migration stories"
+      },
+      {
+        "id": 30,
+        "question": "Literature preserves history. Are there any famous historical writers or poets from your region whose works are still celebrated?",
+        "context": "literary history"
+      },
+      {
+        "id": 31,
+        "question": "Governance shapes history. How was your region governed in the past? Are there notable leaders associated with justice or administration locally?",
+        "context": "governance"
+      },
+      {
+        "id": 32,
+        "question": "Customs often have deep roots. Are there any traditional practices or taboos in your community that originated from historical events?",
+        "context": "customs and taboos"
+      },
+      {
+        "id": 33,
+        "question": "Agriculture is central to many communities. What were the traditional farming methods in your region? Have any ancient practices been preserved?",
+        "context": "agricultural history"
+      },
+      {
+        "id": 34,
+        "question": "Water sources are vital historically. Are there any historical wells, stepwells, or water bodies significant to your area? What stories are associated with them?",
+        "context": "water sources"
+      },
+      {
+        "id": 35,
+        "question": "Games reflect culture. Are there any traditional sports or games unique to your region that have historical significance?",
+        "context": "sports and games"
+      },
+      {
+        "id": 36,
+        "question": "Relationships with neighbors shape history. How has your region interacted with neighboring areas historically? Any notable collaborations or conflicts?",
+        "context": "inter-regional relations"
+      },
+      {
+        "id": 37,
+        "question": "Art tells stories of the past. Are there unique historical artworks or sculptures in your area? What do they represent?",
+        "context": "historical art"
+      },
+      {
+        "id": 38,
+        "question": "Currencies evolve with economies. Did your region use any unique forms of currency or trade systems in the past?",
+        "context": "currency and trade systems"
+      },
+      {
+        "id": 39,
+        "question": "Technological advances impact societies. Were there significant technological developments in your region's history that influenced daily life?",
+        "context": "technological history"
+      },
+      {
+        "id": 40,
+        "question": "Trade routes connect cultures. Did any major trade routes pass through your area? How did that influence your region's development?",
+        "context": "trade routes"
+      },
+      {
+        "id": 41,
+        "question": "Storytelling preserves heritage. How did your ancestors share historical knowledge? Are oral traditions still practiced in your community?",
+        "context": "oral traditions"
+      },
+      {
+        "id": 42,
+        "question": "Education shapes the future. How has your region's history influenced modern education or schools in your area?",
+        "context": "education influence"
+      },
+      {
+        "id": 43,
+        "question": "Social movements bring change. Were there any significant movements or protests that started in your area? What impact did they have?",
+        "context": "social movements"
+      },
+      {
+        "id": 44,
+        "question": "The independence movement touched many. What role did your region play in India's struggle for independence? Are there local heroes remembered for their contributions?",
+        "context": "independence movement"
+      },
+      {
+        "id": 45,
+        "question": "Infrastructure tells a story. Are there old bridges, roads, or buildings in your area with historical importance? What stories do they hold?",
+        "context": "infrastructure history"
+      },
+      {
+        "id": 46,
+        "question": "Environmental changes affect history. Has your region experienced significant environmental shifts in the past? How did it affect the local way of life?",
+        "context": "environmental changes"
+      },
+      {
+        "id": 47,
+        "question": "Exploration methods evolve. How did people in your region historically navigate or explore their surroundings? Any unique techniques?",
+        "context": "exploration methods"
+      },
+      {
+        "id": 48,
+        "question": "Natural resources shape economies. How were resources like forests, minerals, or rivers used historically in your area?",
+        "context": "natural resources"
+      },
+      {
+        "id": 49,
+        "question": "Health crises impact communities. Did your region experience any historical epidemics or health challenges? How did the community respond?",
+        "context": "health crises"
+      },
+      {
+        "id": 50,
+        "question": "Preserving history is a collective effort. What are some ways people in your community are working to preserve historical sites and traditions today? How can others get involved?",
+        "context": "preservation efforts"
+      },
+      {
+        "id": 51,
+        "question": "Traditional storytelling often includes historical narratives. Can you share a story that has been traditionally told in your family or community that reflects your region's history?",
+        "context": "storytelling"
+      },
+      {
+        "id": 52,
+        "question": "Historical clothing often reflects the climate and resources. How did people in your region historically dress, and what materials were commonly used?",
+        "context": "historical clothing"
+      },
+      {
+        "id": 53,
+        "question": "Festivals often commemorate historical events. Is there a festival in your region that marks a historical event? How is it observed?",
+        "context": "festivals"
+      },
+      {
+        "id": 54,
+        "question": "Historical trade practices influenced social structures. How did trade impact the social hierarchy or community organization in your region historically?",
+        "context": "trade impact on society"
+      },
+      {
+        "id": 55,
+        "question": "Traditional housing styles often adapt to the environment. Can you describe the historical architecture of homes in your area? How have they changed over time?",
+        "context": "housing architecture"
+      },
+      {
+        "id": 56,
+        "question": "Historical transportation infrastructure can indicate economic prosperity. Were there any significant roads, railways, or ports in your region's history?",
+        "context": "transport infrastructure"
+      },
+      {
+        "id": 57,
+        "question": "Artisans play a key role in cultural history. Are there any traditional craftspeople or artisans from your region known for their historical contributions?",
+        "context": "craftspeople and artisans"
+      },
+      {
+        "id": 58,
+        "question": "Historical agricultural practices can inform modern methods. What traditional farming techniques were used in your area, and are any still in practice today?",
+        "context": "agricultural practices"
+      },
+      {
+        "id": 59,
+        "question": "Historical events often influence local legends. Are there any legends in your region that arose from specific historical occurrences?",
+        "context": "legends from events"
+      },
+      {
+        "id": 60,
+        "question": "Music instruments can have historical significance. Are there any traditional instruments unique to your region with historical roots?",
+        "context": "traditional instruments"
+      },
+      {
+        "id": 61,
+        "question": "Historical climate events can shape a region. Has your area experienced any significant climate events in the past, and how did they impact the community?",
+        "context": "climate events"
+      },
+      {
+        "id": 62,
+        "question": "Traditional governance systems often reflect historical contexts. How was your region governed before modern administrative systems?",
+        "context": "traditional governance"
+      },
+      {
+        "id": 63,
+        "question": "Historical migration can lead to cultural blending. Has your region been influenced by any particular migrant communities in its history?",
+        "context": "cultural blending"
+      },
+      {
+        "id": 64,
+        "question": "Religious festivals often have historical origins. Can you describe a religious festival in your area that has historical significance?",
+        "context": "religious festivals"
+      },
+      {
+        "id": 65,
+        "question": "Historical education centers can be a source of pride. Are there any old schools or universities in your region known for their historical importance?",
+        "context": "education centers"
+      },
+      {
+        "id": 66,
+        "question": "Historical records can provide insights into the past. Are there any archives or libraries in your area that house important historical documents?",
+        "context": "archives and libraries"
+      },
+      {
+        "id": 67,
+        "question": "Local cuisine often has historical influences. How have historical events or trade influenced the traditional foods of your region?",
+        "context": "cuisine history"
+      },
+      {
+        "id": 68,
+        "question": "Historical transportation methods can be fascinating. How did people in your region historically travel long distances or transport goods?",
+        "context": "transportation methods"
+      },
+      {
+        "id": 69,
+        "question": "Traditional medicine practices often have historical significance. Are there any herbal remedies or healing practices unique to your region with historical roots?",
+        "context": "traditional remedies"
+      },
+      {
+        "id": 70,
+        "question": "Historical economic activities can shape modern industries. What were the primary economic activities in your region's history, and how have they evolved?",
+        "context": "economic evolution"
+      },
+      {
+        "id": 71,
+        "question": "Traditional festivals often include historical reenactments. Are there any events in your region where historical events are reenacted or celebrated?",
+        "context": "festival reenactments"
+      },
+      {
+        "id": 72,
+        "question": "Historical trade goods often define a region's identity. What products or crafts was your region historically known for trading?",
+        "context": "trade goods identity"
+      },
+      {
+        "id": 73,
+        "question": "Historical migration patterns can influence demographics. How has migration historically affected the population and culture of your region?",
+        "context": "migration impact"
+      },
+      {
+        "id": 74,
+        "question": "Historical education practices can influence current systems. How was education traditionally imparted in your region, and what subjects were emphasized?",
+        "context": "education practices"
+      },
+      {
+        "id": 75,
+        "question": "Historical environmental practices can inform sustainability. How did historical land use and agriculture practices impact the environment in your region?",
+        "context": "environmental practices"
+      },
+      {
+        "id": 76,
+        "question": "Traditional festivals often have unique rituals. Can you describe a unique ritual from a historical festival in your region?",
+        "context": "festival rituals"
+      },
+      {
+        "id": 77,
+        "question": "Historical conflicts often leave lasting marks. Are there any historical conflicts in your region that have shaped its current social or cultural landscape?",
+        "context": "conflict impact"
+      },
+      {
+        "id": 78,
+        "question": "Historical trade relations can influence modern connections. How did historical trade relations with other regions or countries impact your area's development?",
+        "context": "trade relations"
+      },
+      {
+        "id": 79,
+        "question": "Traditional storytelling often includes historical events. How are historical events conveyed through stories or oral traditions in your community?",
+        "context": "storytelling of events"
+      },
+      {
+        "id": 80,
+        "question": "Historical craftsmanship can be a source of pride. Are there any traditional crafts in your region that have been passed down through generations?",
+        "context": "traditional crafts"
+      },
+      {
+        "id": 81,
+        "question": "Historical land ownership can influence present-day society. How was land traditionally owned and managed in your region?",
+        "context": "land ownership"
+      },
+      {
+        "id": 82,
+        "question": "Historical architecture often reflects cultural values. Can you describe a historical building in your region and its significance?",
+        "context": "architectural significance"
+      },
+      {
+        "id": 83,
+        "question": "Historical events often influence local identity. How do historical milestones contribute to the identity of your community today?",
+        "context": "identity formation"
+      },
+      {
+        "id": 84,
+        "question": "Historical transportation hubs can shape a region. Were there any significant transportation hubs in your region's history, such as ports or railway stations?",
+        "context": "transport hubs"
+      },
+      {
+        "id": 85,
+        "question": "Traditional festivals often include historical foods. What are some traditional foods served during historical festivals in your region?",
+        "context": "festival cuisine"
+      },
+      {
+        "id": 86,
+        "question": "Historical figures often have monuments or memorials. Are there any statues or memorials dedicated to historical figures in your area?",
+        "context": "monuments to figures"
+      },
+      {
+        "id": 87,
+        "question": "Historical education institutions can influence local culture. How have historical schools or colleges impacted the cultural development of your region?",
+        "context": "education institutions"
+      },
+      {
+        "id": 88,
+        "question": "Historical environmental challenges can shape resilience. How did your region historically cope with environmental challenges like droughts or floods?",
+        "context": "environmental resilience"
+      },
+      {
+        "id": 89,
+        "question": "Historical art forms can influence modern creativity. Are there any traditional art forms from your region that continue to inspire contemporary artists?",
+        "context": "artistic influence"
+      },
+      {
+        "id": 90,
+        "question": "Historical trade practices often include unique methods. Can you describe any unique trade practices or barter systems that were historically used in your region?",
+        "context": "trade methods"
+      },
+      {
+        "id": 91,
+        "question": "Historical governance can influence modern politics. How did historical governance structures in your region influence its current political landscape?",
+        "context": "political influence"
+      },
+      {
+        "id": 92,
+        "question": "Historical educational curricula can reflect cultural values. What subjects were historically emphasized in education within your region?",
+        "context": "educational curricula"
+      },
+      {
+        "id": 93,
+        "question": "Historical transportation methods can influence settlement patterns. How did the availability of certain transportation methods historically affect where people lived in your region?",
+        "context": "settlement patterns"
+      },
+      {
+        "id": 94,
+        "question": "Historical climate events can influence agricultural practices. How did past climate events shape farming practices in your region?",
+        "context": "agricultural practices"
+      },
+      {
+        "id": 95,
+        "question": "Historical festivals often have unique dances or music. Can you describe a traditional dance or music form associated with a historical festival in your region?",
+        "context": "dance and music"
+      },
+      {
+        "id": 96,
+        "question": "Historical migration can lead to cultural diversity. How has historical migration contributed to the cultural diversity of your region?",
+        "context": "cultural diversity"
+      },
+      {
+        "id": 97,
+        "question": "Historical trade goods can influence local cuisine. How have historically traded goods influenced the traditional foods of your region?",
+        "context": "cuisine influence"
+      },
+      {
+        "id": 98,
+        "question": "Historical conflicts can shape community relationships. How have historical conflicts in your region affected relationships within the community today?",
+        "context": "community relationships"
+      },
+      {
+        "id": 99,
+        "question": "Historical education centers often attract scholars. Were there any notable scholars or thinkers from historical educational institutions in your region?",
+        "context": "scholars and thinkers"
+      },
+      {
+        "id": 100,
+        "question": "Historical transportation infrastructure can influence economic growth. How did historical roads, ports, or railways contribute to the economic development of your region?",
+        "context": "economic growth"
+      },
+      {
+        "id": 101,
+        "question": "Historical festivals often involve specific clothing. What traditional attire is worn during historical festivals in your region, and what is their significance?",
+        "context": "festival attire"
+      },
+      {
+        "id": 102,
+        "question": "Historical trade relations can create lasting bonds. Are there any regions or countries that have a historical trade relationship with your area?",
+        "context": "trade relations"
+      },
+      {
+        "id": 103,
+        "question": "Historical agricultural practices can inform modern sustainability. How have traditional farming methods in your region contributed to sustainable practices today?",
+        "context": "sustainable agriculture"
+      },
+      {
+        "id": 104,
+        "question": "Historical figures often inspire local pride. How are historical figures from your region honored or remembered in the community?",
+        "context": "honoring figures"
+      },
+      {
+        "id": 105,
+        "question": "Historical trade goods can define cultural identity. What traditional products or crafts from your region are still celebrated today for their historical significance?",
+        "context": "cultural identity"
+      },
+      {
+        "id": 106,
+        "question": "Historical architecture can indicate cultural influences. How have different cultural influences shaped the architectural styles in your region?",
+        "context": "architectural influences"
+      },
+      {
+        "id": 107,
+        "question": "Historical festivals often have unique rituals. Can you describe a unique ritual from a historical festival in your region and its significance?",
+        "context": "festival rituals"
+      },
+      {
+        "id": 108,
+        "question": "Historical events can influence modern governance. How have historical events in your region shaped its current governance or administrative practices?",
+        "context": "governance practices"
+      },
+      {
+        "id": 109,
+        "question": "Historical trade routes can influence cultural exchange. How did historical trade routes passing through your region facilitate cultural exchanges?",
+        "context": "cultural exchange"
+      },
+      {
+        "id": 110,
+        "question": "Historical preservation efforts are vital. What steps are being taken in your region to preserve historical sites and heritage?",
+        "context": "preservation efforts"
+      },
+      {
+        "id": 111,
+        "question": "Historical festivals often include traditional games. What traditional games are played during historical festivals in your region, and what is their origin?",
+        "context": "traditional games"
+      },
+      {
+        "id": 112,
+        "question": "Historical literature can influence modern narratives. Are there any historical literary works from your region that are still influential today?",
+        "context": "literary influence"
+      },
+      {
+        "id": 113,
+        "question": "Historical trade practices can influence modern business. How have historical trade practices in your region shaped current business practices or marketplaces?",
+        "context": "business practices"
+      },
+      {
+        "id": 114,
+        "question": "Historical conflicts can lead to cultural resilience. How has your region overcome historical conflicts, and what cultural traits emerged from those experiences?",
+        "context": "cultural resilience"
+      },
+      {
+        "id": 115,
+        "question": "Historical environmental management can inform current practices. How did your region historically manage natural resources like forests, water, or minerals?",
+        "context": "environmental management"
+      },
+      {
+        "id": 116,
+        "question": "Historical festivals often have specific symbols. What symbols or motifs are commonly associated with historical festivals in your region, and what do they represent?",
+        "context": "festival symbols"
+      },
+      {
+        "id": 117,
+        "question": "Historical education methods can influence current teaching. How have traditional education methods in your region influenced modern educational practices?",
+        "context": "education methods"
+      },
+      {
+        "id": 118,
+        "question": "Historical trade relationships can impact modern diplomacy. How do historical trade relationships influence current diplomatic or economic ties of your region?",
+        "context": "diplomatic ties"
+      },
+      {
+        "id": 119,
+        "question": "Historical craftsmanship can include unique techniques. What unique craftsmanship techniques were historically used in your region, and are they still practiced today?",
+        "context": "craftsmanship techniques"
+      },
+      {
+        "id": 120,
+        "question": "Historical storytelling can preserve important lessons. Can you share a historical story from your region that teaches an important lesson or moral?",
+        "context": "moral lessons"
+      },
+      {
+        "id": 121,
+        "question": "Historical landmarks can be centers of community. Are there any historical landmarks in your region that serve as gathering places for the community?",
+        "context": "community landmarks"
+      },
+      {
+        "id": 122,
+        "question": "Historical economic activities can influence modern livelihoods. How have historical economic activities in your region transitioned into today's livelihoods?",
+        "context": "modern livelihoods"
+      },
+      {
+        "id": 123,
+        "question": "Historical trade practices can include unique barter systems. Were there any unique barter systems used in your region's history, and how did they function?",
+        "context": "barter systems"
+      },
+      {
+        "id": 124,
+        "question": "Historical festivals often include specific music styles. Can you describe the traditional music styles associated with historical festivals in your region?",
+        "context": "music styles"
+      },
+      {
+        "id": 125,
+        "question": "Historical environmental practices can influence current sustainability efforts. How are historical environmental practices in your region being utilized or adapted for modern sustainability?",
+        "context": "sustainability efforts"
+      },
+      {
+        "id": 126,
+        "question": "Historical figures often have myths or stories associated with them. Are there any myths or stories surrounding historical figures from your region?",
+        "context": "myths about figures"
+      },
+      {
+        "id": 127,
+        "question": "Historical trade practices can influence cultural diversity. How did historical trade practices contribute to cultural diversity in your region?",
+        "context": "cultural diversity"
+      },
+      {
+        "id": 128,
+        "question": "Historical architecture often incorporates local materials. What local materials were historically used in building structures in your region, and why?",
+        "context": "building materials"
+      },
+      {
+        "id": 129,
+        "question": "Historical festivals can include specific dance forms. Can you describe a traditional dance form performed during historical festivals in your region?",
+        "context": "dance forms"
+      },
+      {
+        "id": 130,
+        "question": "Historical governance can include unique administrative practices. Were there any unique administrative practices or systems used in your region's history?",
+        "context": "administrative practices"
+      },
+      {
+        "id": 131,
+        "question": "Historical trade routes can leave behind cultural artifacts. Have any cultural artifacts from historical trade routes been found in your region?",
+        "context": "cultural artifacts"
+      },
+      {
+        "id": 132,
+        "question": "Historical storytelling can preserve language nuances. How have historical stories preserved unique language features or dialects in your region?",
+        "context": "language preservation"
+      },
+      {
+        "id": 133,
+        "question": "Historical environmental events can influence cultural practices. How did past environmental events shape cultural practices or beliefs in your region?",
+        "context": "cultural practices"
+      },
+      {
+        "id": 134,
+        "question": "Historical festivals can include traditional attire. What traditional attire is typically worn during historical festivals in your region, and what is its significance?",
+        "context": "traditional attire"
+      },
+      {
+        "id": 135,
+        "question": "Historical trade practices can involve unique negotiation methods. Can you describe any unique methods of negotiation or trade used historically in your region?",
+        "context": "negotiation methods"
+      },
+      {
+        "id": 136,
+        "question": "Historical governance can influence modern legal systems. How have historical governance structures in your region influenced its current legal or judicial systems?",
+        "context": "legal systems"
+      },
+      {
+        "id": 137,
+        "question": "Historical trade relationships can lead to lasting cultural ties. Are there any lasting cultural ties between your region and other regions or countries due to historical trade?",
+        "context": "cultural ties"
+      },
+      {
+        "id": 138,
+        "question": "Historical craftsmanship can include unique techniques. What unique craftsmanship techniques were historically used in your region, and are they still practiced today?",
+        "context": "craftsmanship techniques"
+      },
+      {
+        "id": 139,
+        "question": "Historical storytelling can include epic tales. Are there any epic tales or long-form stories from your region's history that are still told today?",
+        "context": "epic tales"
+      },
+      {
+        "id": 140,
+        "question": "Historical landmarks can have multiple significances. Can you describe a historical landmark in your region and the various significances it holds?",
+        "context": "landmark significance"
+      },
+      {
+        "id": 141,
+        "question": "Historical economic activities can influence land use. How have historical economic activities shaped the current land use and landscape of your region?",
+        "context": "land use"
+      },
+      {
+        "id": 142,
+        "question": "Historical trade practices can influence local markets. How have historical trade practices shaped the current marketplaces or trading systems in your region?",
+        "context": "market shaping"
+      },
+      {
+        "id": 143,
+        "question": "Historical festivals can include traditional performances. Can you describe a traditional performance that takes place during historical festivals in your region?",
+        "context": "traditional performances"
+      },
+      {
+        "id": 144,
+        "question": "Historical governance can include unique leadership roles. Were there any unique leadership roles or titles used in your region's historical governance?",
+        "context": "leadership roles"
+      },
+      {
+        "id": 145,
+        "question": "Historical trade routes can influence language and communication. How did historical trade routes passing through your region influence the local language or communication practices?",
+        "context": "language influence"
+      },
+      {
+        "id": 146,
+        "question": "Historical craftsmanship can influence modern design. How have historical craftsmanship techniques influenced modern design or architecture in your region?",
+        "context": "design influence"
+      },
+      {
+        "id": 147,
+        "question": "Historical storytelling can include moral lessons. Can you share a historical story from your region that teaches a moral or ethical lesson?",
+        "context": "moral lessons"
+      },
+      {
+        "id": 148,
+        "question": "Historical landmarks can attract tourism. How do historical landmarks in your region contribute to tourism, and how are they preserved?",
+        "context": "tourism and preservation"
+      },
+      {
+        "id": 149,
+        "question": "Historical economic activities can influence modern industries. How have historical economic activities transitioned into or influenced modern industries in your region?",
+        "context": "industry influence"
+      },
+      {
+        "id": 150,
+        "question": "Historical festivals can strengthen community bonds. How do historical festivals in your region help in strengthening community bonds and preserving cultural heritage?",
+        "context": "community bonds"
+      }
+    ]
+  }
+  

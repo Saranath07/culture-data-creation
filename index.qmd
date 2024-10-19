@@ -9,6 +9,7 @@ toc-depth: 2
 # Paper Summaries on Cultural Data and Language Models
 
 ## LOFTI: Localization and Factuality Transfer to Indian Locales
+![Paper Link](2407.11833v1.pdf)
 
 ### Description:
 This paper introduces **LOFTI** (Localization and Factuality Transfer for Indian Locales), a benchmark designed to evaluate the ability of large language models (LLMs) to transfer factual knowledge across geographical regions, specifically from non-Indian locales to Indian ones. It highlights the limitations of existing LLMs in providing localized factual information, which often results in skewed or biased responses.
