@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What traditional dishes from your region hold a special place in your heart, and why?",
+      "context": "Favorite regional dishes"
+    },
+    {
+      "id": 2,
+      "question": "Can you share a memorable experience of preparing or enjoying a meal during a local festival?",
+      "context": "Festival meal experiences"
+    },
+    {
+      "id": 3,
+      "question": "How does your regional cuisine reflect the history and culture of your area?",
+      "context": "Cuisine reflects culture and history"
+    },
+    {
+      "id": 4,
+      "question": "What unique ingredients are commonly used in your local dishes, and how are they sourced?",
+      "context": "Unique local ingredients"
+    },
+    {
+      "id": 5,
+      "question": "Are there any age-old cooking techniques or methods unique to your community?",
+      "context": "Traditional cooking methods"
+    },
+    {
+      "id": 6,
+      "question": "How do seasonal changes influence the types of food prepared in your region?",
+      "context": "Seasonal food variations"
+    },
+    {
+      "id": 7,
+      "question": "What role does food play in your family gatherings and social events?",
+      "context": "Food in social gatherings"
+    },
+    {
+      "id": 8,
+      "question": "Can you describe a popular street food from your area that everyone should try?",
+      "context": "Popular local street food"
+    },
+    {
+      "id": 9,
+      "question": "How are traditional recipes passed down in your family or community?",
+      "context": "Passing down recipes"
+    },
+    {
+      "id": 10,
+      "question": "What are the staple foods in your diet, and how are they typically prepared?",
+      "context": "Diet staples and preparation"
+    },
+    {
+      "id": 11,
+      "question": "Are there any food-related customs or rituals that are significant in your culture?",
+      "context": "Food customs and rituals"
+    },
+    {
+      "id": 12,
+      "question": "How do local agricultural practices impact the cuisine in your region?",
+      "context": "Agriculture's impact on cuisine"
+    },
+    {
+      "id": 13,
+      "question": "What is a typical breakfast like for you, and does it differ from other meals?",
+      "context": "Typical breakfast foods"
+    },
+    {
+      "id": 14,
+      "question": "Can you tell us about a lesser-known dish from your area that deserves more attention?",
+      "context": "Underrated local dishes"
+    },
+    {
+      "id": 15,
+      "question": "How has modern life influenced traditional eating habits in your community?",
+      "context": "Modern influence on eating"
+    },
+    {
+      "id": 16,
+      "question": "Are there any special beverages or drinks that are unique to your region?",
+      "context": "Unique regional beverages"
+    },
+    {
+      "id": 17,
+      "question": "How do people in your area cater to dietary preferences like vegetarianism or veganism?",
+      "context": "Dietary preferences locally"
+    },
+    {
+      "id": 18,
+      "question": "What is the significance of spices in your cooking, and which ones are most commonly used?",
+      "context": "Spices and their significance"
+    },
+    {
+      "id": 19,
+      "question": "How do you feel about the fusion of your regional cuisine with other culinary styles?",
+      "context": "Opinions on cuisine fusion"
+    },
+    {
+      "id": 20,
+      "question": "In what ways do you think preserving traditional food practices is important for future generations?",
+      "context": "Preserving food traditions"
+    }
+  ]
+}

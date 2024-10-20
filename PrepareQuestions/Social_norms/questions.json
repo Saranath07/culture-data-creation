@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What unique customs or traditions in your community hold special meaning for you, and why?",
+      "context": "Share special local customs"
+    },
+    {
+      "id": 2,
+      "question": "How do people in your region typically greet each other, and what cultural significance do these greetings have?",
+      "context": "Explore greetings and meanings"
+    },
+    {
+      "id": 3,
+      "question": "Can you share any traditional ceremonies or rituals that are important during festivals or life events in your area?",
+      "context": "Discuss ceremonies and rituals"
+    },
+    {
+      "id": 4,
+      "question": "How does your community view the roles of family members like elders, parents, and children?",
+      "context": "Family roles in community"
+    },
+    {
+      "id": 5,
+      "question": "What are the expectations around hospitality when someone visits your home or community?",
+      "context": "Local hospitality norms"
+    },
+    {
+      "id": 6,
+      "question": "Are there local proverbs or sayings that reflect the values and beliefs of your culture?",
+      "context": "Share cultural proverbs"
+    },
+    {
+      "id": 7,
+      "question": "How do people in your area celebrate milestones such as weddings, births, or coming-of-age events?",
+      "context": "Customs for life events"
+    },
+    {
+      "id": 8,
+      "question": "What role do music, dance, or art play in the social life of your community?",
+      "context": "Arts in social life"
+    },
+    {
+      "id": 9,
+      "question": "How are conflicts or disagreements typically resolved within your community?",
+      "context": "Conflict resolution methods"
+    },
+    {
+      "id": 10,
+      "question": "In what ways do you think modern influences are affecting traditional social norms in your region?",
+      "context": "Modern impact on traditions"
+    }
+  ]
+}
