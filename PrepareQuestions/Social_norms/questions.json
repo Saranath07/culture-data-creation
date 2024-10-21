@@ -2,53 +2,754 @@
   "questions": [
     {
       "id": 1,
-      "question": "What unique customs or traditions in your community hold special meaning for you, and why?",
-      "context": "Share special local customs"
+      "question": "How do traditional family structures influence daily decision-making in your community?",
+      "context": "Family Structure"
     },
     {
       "id": 2,
-      "question": "How do people in your region typically greet each other, and what cultural significance do these greetings have?",
-      "context": "Explore greetings and meanings"
+      "question": "What role do elders play in resolving conflicts within your family?",
+      "context": "Respect for Elders"
     },
     {
       "id": 3,
-      "question": "Can you share any traditional ceremonies or rituals that are important during festivals or life events in your area?",
-      "context": "Discuss ceremonies and rituals"
+      "question": "Can you describe the expectations around marriage in your culture?",
+      "context": "Marriage Norms"
     },
     {
       "id": 4,
-      "question": "How does your community view the roles of family members like elders, parents, and children?",
-      "context": "Family roles in community"
+      "question": "How is gender roles division perceived and practiced in your household?",
+      "context": "Gender Roles"
     },
     {
       "id": 5,
-      "question": "What are the expectations around hospitality when someone visits your home or community?",
-      "context": "Local hospitality norms"
+      "question": "What are the common practices during festivals in your village?",
+      "context": "Festivals and Celebrations"
     },
     {
       "id": 6,
-      "question": "Are there local proverbs or sayings that reflect the values and beliefs of your culture?",
-      "context": "Share cultural proverbs"
+      "question": "How important is community participation in social events?",
+      "context": "Community Engagement"
     },
     {
       "id": 7,
-      "question": "How do people in your area celebrate milestones such as weddings, births, or coming-of-age events?",
-      "context": "Customs for life events"
+      "question": "What are the norms regarding education for boys and girls in your area?",
+      "context": "Education Norms"
     },
     {
       "id": 8,
-      "question": "What role do music, dance, or art play in the social life of your community?",
-      "context": "Arts in social life"
+      "question": "How do people in your community view arranged marriages versus love marriages?",
+      "context": "Marriage Preferences"
     },
     {
       "id": 9,
-      "question": "How are conflicts or disagreements typically resolved within your community?",
-      "context": "Conflict resolution methods"
+      "question": "What are the expectations for children once they reach adulthood?",
+      "context": "Coming of Age"
     },
     {
       "id": 10,
-      "question": "In what ways do you think modern influences are affecting traditional social norms in your region?",
-      "context": "Modern impact on traditions"
+      "question": "How is hospitality expressed in your culture when hosting guests?",
+      "context": "Hospitality Norms"
+    },
+    {
+      "id": 11,
+      "question": "What are the societal attitudes towards inter-caste marriages?",
+      "context": "Caste and Marriage"
+    },
+    {
+      "id": 12,
+      "question": "How do traditional occupations influence social status in your village?",
+      "context": "Occupational Norms"
+    },
+    {
+      "id": 13,
+      "question": "What are the common dietary practices and their cultural significance?",
+      "context": "Dietary Norms"
+    },
+    {
+      "id": 14,
+      "question": "How is respect shown towards teachers and educators in your community?",
+      "context": "Respect for Educators"
+    },
+    {
+      "id": 15,
+      "question": "What are the norms surrounding marriage ceremonies and rituals?",
+      "context": "Marriage Ceremonies"
+    },
+    {
+      "id": 16,
+      "question": "How do people in your community celebrate births and naming ceremonies?",
+      "context": "Birth Celebrations"
+    },
+    {
+      "id": 17,
+      "question": "What are the expectations for women during festivals?",
+      "context": "Gender-Specific Festivities"
+    },
+    {
+      "id": 18,
+      "question": "How is inheritance typically handled within families?",
+      "context": "Inheritance Norms"
+    },
+    {
+      "id": 19,
+      "question": "What are the common forms of dispute resolution in your village?",
+      "context": "Conflict Resolution"
+    },
+    {
+      "id": 20,
+      "question": "How do societal norms influence career choices among the youth?",
+      "context": "Career Norms"
+    },
+    {
+      "id": 21,
+      "question": "What are the traditional expectations for hospitality towards in-laws?",
+      "context": "In-law Relations"
+    },
+    {
+      "id": 22,
+      "question": "How is punctuality perceived in social and professional settings?",
+      "context": "Time Management Norms"
+    },
+    {
+      "id": 23,
+      "question": "What role do religious practices play in everyday life?",
+      "context": "Religious Norms"
+    },
+    {
+      "id": 24,
+      "question": "How are gender-specific clothing norms maintained in your community?",
+      "context": "Dress Code Norms"
+    },
+    {
+      "id": 25,
+      "question": "What are the societal expectations for hosting weddings?",
+      "context": "Wedding Hosting Norms"
+    },
+    {
+      "id": 26,
+      "question": "How do people in your area view arranged living arrangements for newlyweds?",
+      "context": "Living Arrangements Post-Marriage"
+    },
+    {
+      "id": 27,
+      "question": "What are the norms around widowhood in your culture?",
+      "context": "Widowhood Norms"
+    },
+    {
+      "id": 28,
+      "question": "How is elder care managed within families?",
+      "context": "Elder Care Norms"
+    },
+    {
+      "id": 29,
+      "question": "What are the community's views on education for children with disabilities?",
+      "context": "Inclusive Education Norms"
+    },
+    {
+      "id": 30,
+      "question": "How do social norms influence the way people communicate with each other?",
+      "context": "Communication Norms"
+    },
+    {
+      "id": 31,
+      "question": "What are the expectations for men and women during childbirth?",
+      "context": "Childbirth Norms"
+    },
+    {
+      "id": 32,
+      "question": "How is mental health perceived and addressed in your community?",
+      "context": "Mental Health Norms"
+    },
+    {
+      "id": 33,
+      "question": "What are the norms regarding financial responsibilities within a family?",
+      "context": "Financial Norms"
+    },
+    {
+      "id": 34,
+      "question": "How do people in your village typically spend their leisure time?",
+      "context": "Leisure Norms"
+    },
+    {
+      "id": 35,
+      "question": "What are the societal attitudes towards divorce?",
+      "context": "Divorce Norms"
+    },
+    {
+      "id": 36,
+      "question": "How are celebrations for achievements like graduations handled?",
+      "context": "Achievement Celebrations"
+    },
+    {
+      "id": 37,
+      "question": "What are the norms surrounding funeral practices?",
+      "context": "Funeral Norms"
+    },
+    {
+      "id": 38,
+      "question": "How is personal space respected within households?",
+      "context": "Personal Space Norms"
+    },
+    {
+      "id": 39,
+      "question": "What are the expectations for community involvement in public works?",
+      "context": "Community Involvement"
+    },
+    {
+      "id": 40,
+      "question": "How do social norms influence the way people celebrate individual achievements?",
+      "context": "Individual Achievement Norms"
+    },
+    {
+      "id": 41,
+      "question": "What are the common practices for celebrating national holidays?",
+      "context": "National Holiday Celebrations"
+    },
+    {
+      "id": 42,
+      "question": "How is punctuality viewed in educational institutions?",
+      "context": "Educational Punctuality Norms"
+    },
+    {
+      "id": 43,
+      "question": "What are the expectations for guest behavior in someone’s home?",
+      "context": "Guest Etiquette"
+    },
+    {
+      "id": 44,
+      "question": "How do people in your community view the use of technology in daily life?",
+      "context": "Technology Use Norms"
+    },
+    {
+      "id": 45,
+      "question": "What are the traditional roles of children in maintaining household duties?",
+      "context": "Children's Roles"
+    },
+    {
+      "id": 46,
+      "question": "How is conflict between different generations handled?",
+      "context": "Intergenerational Conflict Resolution"
+    },
+    {
+      "id": 47,
+      "question": "What are the norms regarding public displays of affection?",
+      "context": "Public Affection Norms"
+    },
+    {
+      "id": 48,
+      "question": "How do societal expectations influence personal career aspirations?",
+      "context": "Career Aspiration Norms"
+    },
+    {
+      "id": 49,
+      "question": "What are the common practices for respecting guests during festivals?",
+      "context": "Festival Hospitality"
+    },
+    {
+      "id": 50,
+      "question": "How is success defined and perceived in your community?",
+      "context": "Success Perception"
+    },
+    {
+      "id": 51,
+      "question": "What are the norms surrounding gift-giving in social contexts?",
+      "context": "Gift-Giving Norms"
+    },
+    {
+      "id": 52,
+      "question": "How do people balance traditional values with modern influences?",
+      "context": "Balancing Tradition and Modernity"
+    },
+    {
+      "id": 53,
+      "question": "What are the societal expectations for unmarried individuals?",
+      "context": "Unmarried Individuals Norms"
+    },
+    {
+      "id": 54,
+      "question": "How is modesty perceived in dress and behavior?",
+      "context": "Modesty Norms"
+    },
+    {
+      "id": 55,
+      "question": "What are the common practices for celebrating anniversaries?",
+      "context": "Anniversary Celebrations"
+    },
+    {
+      "id": 56,
+      "question": "How do social norms influence the way people interact in marketplaces?",
+      "context": "Marketplace Interaction Norms"
+    },
+    {
+      "id": 57,
+      "question": "What are the expectations for participation in community decision-making?",
+      "context": "Community Decision-Making"
+    },
+    {
+      "id": 58,
+      "question": "How are traditional crafts and arts preserved and valued?",
+      "context": "Cultural Preservation"
+    },
+    {
+      "id": 59,
+      "question": "What are the norms regarding the celebration of personal milestones?",
+      "context": "Milestone Celebrations"
+    },
+    {
+      "id": 60,
+      "question": "How is time spent with family prioritized over other activities?",
+      "context": "Family Time Prioritization"
+    },
+    {
+      "id": 61,
+      "question": "What are the societal views on single-parent families?",
+      "context": "Single-Parent Family Norms"
+    },
+    {
+      "id": 62,
+      "question": "How do social norms affect the way people seek medical help?",
+      "context": "Healthcare Seeking Behavior"
+    },
+    {
+      "id": 63,
+      "question": "What are the expectations for honoring family traditions?",
+      "context": "Family Tradition Norms"
+    },
+    {
+      "id": 64,
+      "question": "How is education for the elderly valued in your community?",
+      "context": "Elder Education Norms"
+    },
+    {
+      "id": 65,
+      "question": "What are the norms around communal living and shared spaces?",
+      "context": "Communal Living Norms"
+    },
+    {
+      "id": 66,
+      "question": "How do people in your community view environmental conservation?",
+      "context": "Environmental Norms"
+    },
+    {
+      "id": 67,
+      "question": "What are the expectations for maintaining familial relationships?",
+      "context": "Familial Relationship Norms"
+    },
+    {
+      "id": 68,
+      "question": "How are personal achievements celebrated within the family?",
+      "context": "Personal Achievement Celebrations"
+    },
+    {
+      "id": 69,
+      "question": "What role does storytelling play in preserving cultural norms?",
+      "context": "Storytelling and Cultural Preservation"
+    },
+    {
+      "id": 70,
+      "question": "How do social norms influence the way people dress for different occasions?",
+      "context": "Dress Code for Occasions"
+    },
+    {
+      "id": 71,
+      "question": "What are the norms regarding punctuality in social gatherings?",
+      "context": "Social Punctuality Norms"
+    },
+    {
+      "id": 72,
+      "question": "How is hospitality extended to strangers in your community?",
+      "context": "Hospitality to Strangers"
+    },
+    {
+      "id": 73,
+      "question": "What are the societal attitudes towards adopting Western lifestyles?",
+      "context": "Westernization Norms"
+    },
+    {
+      "id": 74,
+      "question": "How do people in your community view the role of women in leadership?",
+      "context": "Women in Leadership"
+    },
+    {
+      "id": 75,
+      "question": "What are the expectations for behavior during religious ceremonies?",
+      "context": "Religious Ceremony Norms"
+    },
+    {
+      "id": 76,
+      "question": "How is mutual respect maintained in intergenerational relationships?",
+      "context": "Intergenerational Respect"
+    },
+    {
+      "id": 77,
+      "question": "What are the norms around sharing personal information within the family?",
+      "context": "Privacy Norms"
+    },
+    {
+      "id": 78,
+      "question": "How do social norms influence entrepreneurial activities?",
+      "context": "Entrepreneurship Norms"
+    },
+    {
+      "id": 79,
+      "question": "What are the expectations for participation in community festivals?",
+      "context": "Festival Participation"
+    },
+    {
+      "id": 80,
+      "question": "How is personal responsibility taught to children in your community?",
+      "context": "Teaching Responsibility"
+    },
+    {
+      "id": 81,
+      "question": "What are the norms surrounding the use of public transportation?",
+      "context": "Public Transportation Norms"
+    },
+    {
+      "id": 82,
+      "question": "How do societal norms impact the way people express grief?",
+      "context": "Grief Expression Norms"
+    },
+    {
+      "id": 83,
+      "question": "What are the expectations for maintaining friendships over time?",
+      "context": "Friendship Norms"
+    },
+    {
+      "id": 84,
+      "question": "How is volunteering perceived and practiced in your community?",
+      "context": "Volunteering Norms"
+    },
+    {
+      "id": 85,
+      "question": "What are the societal attitudes towards mental well-being practices?",
+      "context": "Mental Well-being Norms"
+    },
+    {
+      "id": 86,
+      "question": "How do social norms influence dietary restrictions and practices?",
+      "context": "Dietary Restrictions"
+    },
+    {
+      "id": 87,
+      "question": "What are the expectations for celebrating religious holidays?",
+      "context": "Religious Holiday Celebrations"
+    },
+    {
+      "id": 88,
+      "question": "How is punctuality managed in professional settings?",
+      "context": "Professional Punctuality"
+    },
+    {
+      "id": 89,
+      "question": "What are the norms around gift-giving during weddings and festivals?",
+      "context": "Gift-Giving Practices"
+    },
+    {
+      "id": 90,
+      "question": "How do social norms affect the way people pursue higher education?",
+      "context": "Higher Education Norms"
+    },
+    {
+      "id": 91,
+      "question": "What are the expectations for maintaining cleanliness and hygiene in public spaces?",
+      "context": "Public Hygiene Norms"
+    },
+    {
+      "id": 92,
+      "question": "How is respect for teachers and mentors demonstrated?",
+      "context": "Respect for Educators"
+    },
+    {
+      "id": 93,
+      "question": "What are the societal attitudes towards entrepreneurship and business ownership?",
+      "context": "Entrepreneurship Attitudes"
+    },
+    {
+      "id": 94,
+      "question": "How do social norms influence the way people celebrate personal achievements?",
+      "context": "Achievement Celebration Norms"
+    },
+    {
+      "id": 95,
+      "question": "What are the common practices for maintaining friendships across distances?",
+      "context": "Long-Distance Friendship Norms"
+    },
+    {
+      "id": 96,
+      "question": "How is emotional expression handled within families?",
+      "context": "Emotional Expression Norms"
+    },
+    {
+      "id": 97,
+      "question": "What are the expectations for participation in local governance?",
+      "context": "Local Governance Participation"
+    },
+    {
+      "id": 98,
+      "question": "How do social norms affect the way people use social media?",
+      "context": "Social Media Norms"
+    },
+    {
+      "id": 99,
+      "question": "What are the norms surrounding public celebrations and parades?",
+      "context": "Public Celebration Norms"
+    },
+    {
+      "id": 100,
+      "question": "How is filial piety expressed in your community?",
+      "context": "Filial Piety Norms"
+    },
+    {
+      "id": 101,
+      "question": "What are the expectations for maintaining cultural traditions among the youth?",
+      "context": "Youth and Cultural Traditions"
+    },
+    {
+      "id": 102,
+      "question": "How do social norms influence participation in traditional sports?",
+      "context": "Traditional Sports Participation"
+    },
+    {
+      "id": 103,
+      "question": "What are the societal attitudes towards adopting pets in the household?",
+      "context": "Pet Adoption Norms"
+    },
+    {
+      "id": 104,
+      "question": "How is success in marriage defined in your community?",
+      "context": "Marriage Success Norms"
+    },
+    {
+      "id": 105,
+      "question": "What are the expectations for sibling relationships in your culture?",
+      "context": "Sibling Relationship Norms"
+    },
+    {
+      "id": 106,
+      "question": "How do social norms affect the way people handle financial disputes?",
+      "context": "Financial Dispute Norms"
+    },
+    {
+      "id": 107,
+      "question": "What are the norms around attending and hosting religious services?",
+      "context": "Religious Service Norms"
+    },
+    {
+      "id": 108,
+      "question": "How is community service perceived and valued?",
+      "context": "Community Service Norms"
+    },
+    {
+      "id": 109,
+      "question": "What are the expectations for maintaining professional relationships?",
+      "context": "Professional Relationship Norms"
+    },
+    {
+      "id": 110,
+      "question": "How do social norms influence the way people handle personal finances?",
+      "context": "Personal Finance Norms"
+    },
+    {
+      "id": 111,
+      "question": "What are the societal attitudes towards alternative medicine practices?",
+      "context": "Alternative Medicine Norms"
+    },
+    {
+      "id": 112,
+      "question": "How is cultural identity maintained among the diaspora?",
+      "context": "Cultural Identity Maintenance"
+    },
+    {
+      "id": 113,
+      "question": "What are the norms surrounding the use of traditional attire in daily life?",
+      "context": "Traditional Attire Norms"
+    },
+    {
+      "id": 114,
+      "question": "How do social norms influence dietary choices during religious fasting?",
+      "context": "Religious Fasting Dietary Norms"
+    },
+    {
+      "id": 115,
+      "question": "What are the expectations for mentorship within the community?",
+      "context": "Mentorship Norms"
+    },
+    {
+      "id": 116,
+      "question": "How is communal harmony maintained in diverse communities?",
+      "context": "Communal Harmony Norms"
+    },
+    {
+      "id": 117,
+      "question": "What are the norms around celebrating personal milestones like birthdays?",
+      "context": "Birthday Celebration Norms"
+    },
+    {
+      "id": 118,
+      "question": "How do social norms affect the way people approach retirement?",
+      "context": "Retirement Norms"
+    },
+    {
+      "id": 119,
+      "question": "What are the expectations for participation in traditional dance and music?",
+      "context": "Traditional Arts Participation"
+    },
+    {
+      "id": 120,
+      "question": "How is honesty and integrity valued in personal relationships?",
+      "context": "Honesty and Integrity Norms"
+    },
+    {
+      "id": 121,
+      "question": "What are the societal attitudes towards innovation and technological advancements?",
+      "context": "Innovation Attitudes"
+    },
+    {
+      "id": 122,
+      "question": "How do social norms influence the way people approach conflict in the workplace?",
+      "context": "Workplace Conflict Norms"
+    },
+    {
+      "id": 123,
+      "question": "What are the expectations for celebrating cultural heritage among the youth?",
+      "context": "Youth Cultural Heritage Celebration"
+    },
+    {
+      "id": 124,
+      "question": "How is generosity expressed in your community?",
+      "context": "Generosity Norms"
+    },
+    {
+      "id": 125,
+      "question": "What are the norms surrounding the use of traditional medicine?",
+      "context": "Traditional Medicine Norms"
+    },
+    {
+      "id": 126,
+      "question": "How do social norms impact the way people pursue higher education abroad?",
+      "context": "Higher Education Abroad Norms"
+    },
+    {
+      "id": 127,
+      "question": "What are the expectations for maintaining long-term friendships?",
+      "context": "Long-Term Friendship Norms"
+    },
+    {
+      "id": 128,
+      "question": "How is community support provided during personal crises?",
+      "context": "Community Support Norms"
+    },
+    {
+      "id": 129,
+      "question": "What are the norms regarding the celebration of personal achievements in public?",
+      "context": "Public Achievement Celebrations"
+    },
+    {
+      "id": 130,
+      "question": "How do social norms influence the way people interact with neighbors?",
+      "context": "Neighbor Interaction Norms"
+    },
+    {
+      "id": 131,
+      "question": "What are the expectations for maintaining cultural practices during modernization?",
+      "context": "Cultural Practice Maintenance"
+    },
+    {
+      "id": 132,
+      "question": "How is conflict between personal beliefs and societal expectations handled?",
+      "context": "Conflict Between Beliefs and Norms"
+    },
+    {
+      "id": 133,
+      "question": "What are the norms surrounding the use of public spaces for gatherings?",
+      "context": "Public Gathering Norms"
+    },
+    {
+      "id": 134,
+      "question": "How do social norms affect the way people perceive success in education?",
+      "context": "Educational Success Norms"
+    },
+    {
+      "id": 135,
+      "question": "What are the expectations for supporting extended family members?",
+      "context": "Extended Family Support Norms"
+    },
+    {
+      "id": 136,
+      "question": "How is humility valued and expressed in social interactions?",
+      "context": "Humility Norms"
+    },
+    {
+      "id": 137,
+      "question": "What are the societal attitudes towards adopting children?",
+      "context": "Adoption Norms"
+    },
+    {
+      "id": 138,
+      "question": "How do social norms influence the way people celebrate career milestones?",
+      "context": "Career Milestone Celebrations"
+    },
+    {
+      "id": 139,
+      "question": "What are the expectations for maintaining traditions during significant life events?",
+      "context": "Tradition Maintenance in Life Events"
+    },
+    {
+      "id": 140,
+      "question": "How is punctuality viewed in religious and cultural ceremonies?",
+      "context": "Ceremony Punctuality Norms"
+    },
+    {
+      "id": 141,
+      "question": "What are the norms surrounding the participation of youth in cultural activities?",
+      "context": "Youth Cultural Participation"
+    },
+    {
+      "id": 142,
+      "question": "How do social norms affect the way people approach philanthropy?",
+      "context": "Philanthropy Norms"
+    },
+    {
+      "id": 143,
+      "question": "What are the expectations for maintaining work-life balance?",
+      "context": "Work-Life Balance Norms"
+    },
+    {
+      "id": 144,
+      "question": "How is respect for different religions and beliefs maintained in the community?",
+      "context": "Interfaith Respect Norms"
+    },
+    {
+      "id": 145,
+      "question": "What are the societal attitudes towards adopting sustainable living practices?",
+      "context": "Sustainable Living Norms"
+    },
+    {
+      "id": 146,
+      "question": "How do social norms influence the way people handle personal conflicts?",
+      "context": "Personal Conflict Handling Norms"
+    },
+    {
+      "id": 147,
+      "question": "What are the norms surrounding the celebration of retirement?",
+      "context": "Retirement Celebration Norms"
+    },
+    {
+      "id": 148,
+      "question": "How is loyalty to family and community expressed?",
+      "context": "Loyalty Norms"
+    },
+    {
+      "id": 149,
+      "question": "What are the expectations for maintaining cultural heritage through generations?",
+      "context": "Cultural Heritage Maintenance"
+    },
+    {
+      "id": 150,
+      "question": "How do social norms influence the way people perceive and use public resources?",
+      "context": "Public Resource Use Norms"
     }
   ]
+  
 }
