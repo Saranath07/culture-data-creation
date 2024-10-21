@@ -1,0 +1,755 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Festivals often have unique rituals and practices. Can you describe any special customs or traditions associated with festivals in your region?",
+        "context": "festival customs"
+      },
+      {
+        "id": 2,
+        "question": "How do you and your family typically celebrate major festivals? Are there any specific activities or events you look forward to?",
+        "context": "family celebrations"
+      },
+      {
+        "id": 3,
+        "question": "Food plays a significant role during festivals. What are some traditional dishes prepared during festivals in your area?",
+        "context": "festival cuisine"
+      },
+      {
+        "id": 4,
+        "question": "Are there any local festivals unique to your community that might not be widely known elsewhere?",
+        "context": "local festivals"
+      },
+      {
+        "id": 5,
+        "question": "How have festival celebrations in your region changed over the years? Have modern influences altered traditional practices?",
+        "context": "changes over time"
+      },
+      {
+        "id": 6,
+        "question": "Do festivals in your area have any historical or mythological significance? Can you share any stories associated with them?",
+        "context": "festival significance"
+      },
+      {
+        "id": 7,
+        "question": "What role do music and dance play in the festivals you celebrate? Are there specific songs or dances performed?",
+        "context": "music and dance"
+      },
+      {
+        "id": 8,
+        "question": "How important is community participation during festivals in your region? Do people come together for communal activities?",
+        "context": "community involvement"
+      },
+      {
+        "id": 9,
+        "question": "Are there any special decorations or art forms associated with festivals in your area, such as rangoli or flower arrangements?",
+        "context": "festival decorations"
+      },
+      {
+        "id": 10,
+        "question": "How do children participate in festival celebrations? Are there any activities or games specifically for them?",
+        "context": "children's involvement"
+      },
+      {
+        "id": 11,
+        "question": "Do festivals in your community involve any form of charity or helping the less fortunate?",
+        "context": "charity during festivals"
+      },
+      {
+        "id": 12,
+        "question": "Are there any festivals that are particularly important for your region's agricultural cycle or seasons?",
+        "context": "seasonal festivals"
+      },
+      {
+        "id": 13,
+        "question": "How do you think festivals contribute to preserving cultural heritage in your area?",
+        "context": "cultural preservation"
+      },
+      {
+        "id": 14,
+        "question": "Do people in your region wear special attire during festivals? Can you describe what they wear and any significance behind it?",
+        "context": "festival attire"
+      },
+      {
+        "id": 15,
+        "question": "Are there any specific prayers or religious ceremonies performed during festivals in your community?",
+        "context": "religious ceremonies"
+      },
+      {
+        "id": 16,
+        "question": "How do local businesses or markets participate in festival preparations and celebrations?",
+        "context": "economic impact"
+      },
+      {
+        "id": 17,
+        "question": "Are there any festivals where people from different religions or communities come together to celebrate?",
+        "context": "interfaith festivals"
+      },
+      {
+        "id": 18,
+        "question": "How does the younger generation in your area perceive traditional festivals? Are they actively involved?",
+        "context": "youth participation"
+      },
+      {
+        "id": 19,
+        "question": "Do you have any personal favorite festivals? What makes them special to you?",
+        "context": "personal favorites"
+      },
+      {
+        "id": 20,
+        "question": "Are there any festivals that involve storytelling or folk tales? Can you share an example?",
+        "context": "storytelling in festivals"
+      },
+      {
+        "id": 21,
+        "question": "How do you think globalization has influenced the way festivals are celebrated in your region?",
+        "context": "globalization effects"
+      },
+      {
+        "id": 22,
+        "question": "Are there any festivals in your area that are linked to environmental conservation or nature?",
+        "context": "eco-friendly festivals"
+      },
+      {
+        "id": 23,
+        "question": "Do festivals in your community involve any competitive events, like games or contests?",
+        "context": "competitive events"
+      },
+      {
+        "id": 24,
+        "question": "How do people in your area use social media or technology to enhance festival celebrations?",
+        "context": "technology in festivals"
+      },
+      {
+        "id": 25,
+        "question": "Are there any festivals that require preparation weeks or months in advance? What does that preparation involve?",
+        "context": "festival preparations"
+      },
+      {
+        "id": 26,
+        "question": "How do festivals impact the local economy in your region?",
+        "context": "economic impact"
+      },
+      {
+        "id": 27,
+        "question": "Do you have any unique festival souvenirs or crafts that are made locally?",
+        "context": "festival crafts"
+      },
+      {
+        "id": 28,
+        "question": "How important is the role of elders in festival celebrations in your community?",
+        "context": "role of elders"
+      },
+      {
+        "id": 29,
+        "question": "Are there any festivals that involve pilgrimages or travel to specific locations?",
+        "context": "festival pilgrimages"
+      },
+      {
+        "id": 30,
+        "question": "How are festivals funded in your area? Do communities pool resources or are there sponsors?",
+        "context": "festival funding"
+      },
+      {
+        "id": 31,
+        "question": "What measures are taken to ensure safety and security during large festival gatherings in your region?",
+        "context": "festival safety"
+      },
+      {
+        "id": 32,
+        "question": "Do festivals in your community incorporate any traditional sports or physical activities?",
+        "context": "festival sports"
+      },
+      {
+        "id": 33,
+        "question": "How do festivals contribute to social bonding and community cohesion in your locality?",
+        "context": "social bonding"
+      },
+      {
+        "id": 34,
+        "question": "Are there any songs or hymns that are traditionally sung during festivals in your community?",
+        "context": "festival songs"
+      },
+      {
+        "id": 35,
+        "question": "How do weather and climate affect the way festivals are celebrated in your region?",
+        "context": "climate influence"
+      },
+      {
+        "id": 36,
+        "question": "Do you have any festivals that involve animal worship or include animals in the celebrations?",
+        "context": "animals in festivals"
+      },
+      {
+        "id": 37,
+        "question": "Are there any specific festival etiquettes or taboos that people observe in your area?",
+        "context": "festival etiquettes"
+      },
+      {
+        "id": 38,
+        "question": "How do schools and educational institutions participate in festivals? Do they organize special events?",
+        "context": "educational involvement"
+      },
+      {
+        "id": 39,
+        "question": "Do people in your community exchange gifts during festivals? What kind of gifts are common?",
+        "context": "gift exchange"
+      },
+      {
+        "id": 40,
+        "question": "How do festivals in your region address themes of unity and diversity?",
+        "context": "unity and diversity"
+      },
+      {
+        "id": 41,
+        "question": "Are there any rituals involving water or fire during your festivals? What do they symbolize?",
+        "context": "elemental rituals"
+      },
+      {
+        "id": 42,
+        "question": "Do you have any festivals that are dedicated to specific deities or spiritual figures?",
+        "context": "deity celebrations"
+      },
+      {
+        "id": 43,
+        "question": "How do people with different linguistic backgrounds in your area celebrate festivals together?",
+        "context": "linguistic diversity"
+      },
+      {
+        "id": 44,
+        "question": "Are there any festivals that mark important historical events in your region?",
+        "context": "historical festivals"
+      },
+      {
+        "id": 45,
+        "question": "How do migrant workers or non-local residents participate in festivals in your community?",
+        "context": "inclusion of migrants"
+      },
+      {
+        "id": 46,
+        "question": "Do festivals in your community include theatrical performances or plays? What themes do they explore?",
+        "context": "festival performances"
+      },
+      {
+        "id": 47,
+        "question": "Are there any environmental concerns associated with festival practices in your region?",
+        "context": "environmental impact"
+      },
+      {
+        "id": 48,
+        "question": "How do people in your community use festivals as an opportunity to resolve conflicts or strengthen relationships?",
+        "context": "conflict resolution"
+      },
+      {
+        "id": 49,
+        "question": "Do any festivals involve fasting or other forms of physical discipline?",
+        "context": "fasting traditions"
+      },
+      {
+        "id": 50,
+        "question": "How do festivals influence the art and craft industry in your region?",
+        "context": "artistic influence"
+      },
+      {
+        "id": 51,
+        "question": "Are there festivals where people decorate their homes or community spaces extensively?",
+        "context": "decorations"
+      },
+      {
+        "id": 52,
+        "question": "How do festivals impact tourism in your area? Do they attract visitors from outside?",
+        "context": "festival tourism"
+      },
+      {
+        "id": 53,
+        "question": "Do festivals in your community include processions or parades? What are they like?",
+        "context": "processions"
+      },
+      {
+        "id": 54,
+        "question": "Are there any specific festival greetings or phrases used during celebrations?",
+        "context": "festival greetings"
+      },
+      {
+        "id": 55,
+        "question": "How do radio and television contribute to the festival atmosphere in your region?",
+        "context": "media influence"
+      },
+      {
+        "id": 56,
+        "question": "Do any festivals involve the creation of temporary structures or installations?",
+        "context": "temporary structures"
+      },
+      {
+        "id": 57,
+        "question": "How do local authorities support or regulate festival activities?",
+        "context": "government role"
+      },
+      {
+        "id": 58,
+        "question": "Are there festivals that commemorate significant figures or heroes in your culture?",
+        "context": "commemorative festivals"
+      },
+      {
+        "id": 59,
+        "question": "How do people in your area manage waste and cleanliness during and after festivals?",
+        "context": "cleanliness efforts"
+      },
+      {
+        "id": 60,
+        "question": "Do festivals in your community have influences from neighboring states or countries?",
+        "context": "cross-cultural influences"
+      },
+      {
+        "id": 61,
+        "question": "Are there festivals where people wear masks or costumes? What is their significance?",
+        "context": "costumes and masks"
+      },
+      {
+        "id": 62,
+        "question": "How do festivals affect daily routines and work schedules in your region?",
+        "context": "daily life impact"
+      },
+      {
+        "id": 63,
+        "question": "Do people in your community use festivals as opportunities for matchmaking or social networking?",
+        "context": "social opportunities"
+      },
+      {
+        "id": 64,
+        "question": "Are there festivals particularly important for farmers or fishermen in your area?",
+        "context": "occupational festivals"
+      },
+      {
+        "id": 65,
+        "question": "How do you feel festivals contribute to your personal identity and sense of belonging?",
+        "context": "personal identity"
+      },
+      {
+        "id": 66,
+        "question": "Do festivals in your area include literary activities like poetry recitations or storytelling sessions?",
+        "context": "literary activities"
+      },
+      {
+        "id": 67,
+        "question": "Are there rituals during festivals that involve lighting lamps or candles? What do they represent?",
+        "context": "light rituals"
+      },
+      {
+        "id": 68,
+        "question": "How do older festival traditions coexist with newer forms of celebration in your community?",
+        "context": "tradition vs. modernity"
+      },
+      {
+        "id": 69,
+        "question": "Do any festivals focus on health and wellness, promoting activities like yoga or meditation?",
+        "context": "health-focused festivals"
+      },
+      {
+        "id": 70,
+        "question": "How are festival dates determined in your region? Do they follow the lunar or solar calendar?",
+        "context": "festival calendars"
+      },
+      {
+        "id": 71,
+        "question": "Are there festivals that specifically celebrate women or highlight women's roles in society?",
+        "context": "women-centric festivals"
+      },
+      {
+        "id": 72,
+        "question": "How do local artists and performers participate in festivals? Do they receive special recognition?",
+        "context": "artists' participation"
+      },
+      {
+        "id": 73,
+        "question": "Do festivals in your area involve competitive art like rangoli competitions or craft exhibitions?",
+        "context": "art competitions"
+      },
+      {
+        "id": 74,
+        "question": "Are there rituals during festivals meant to ward off evil or bring good luck?",
+        "context": "superstitious rituals"
+      },
+      {
+        "id": 75,
+        "question": "How do you think festivals help educate the younger generation about cultural values?",
+        "context": "educational role"
+      },
+      {
+        "id": 76,
+        "question": "Do festivals in your region feature martial arts or traditional combat demonstrations?",
+        "context": "martial traditions"
+      },
+      {
+        "id": 77,
+        "question": "Are there festivals specifically for children? What activities are included?",
+        "context": "children's festivals"
+      },
+      {
+        "id": 78,
+        "question": "How do people with disabilities participate in festival celebrations in your community?",
+        "context": "inclusivity"
+      },
+      {
+        "id": 79,
+        "question": "Do you have festivals that mark the beginning or end of important periods like harvest season?",
+        "context": "seasonal transitions"
+      },
+      {
+        "id": 80,
+        "question": "How do festivals influence the local language or dialects used in your area?",
+        "context": "linguistic impact"
+      },
+      {
+        "id": 81,
+        "question": "Are there festivals where people exchange traditional greetings or blessings? What do they mean?",
+        "context": "traditional greetings"
+      },
+      {
+        "id": 82,
+        "question": "How do environmental factors like drought or floods affect festival celebrations in your region?",
+        "context": "environmental challenges"
+      },
+      {
+        "id": 83,
+        "question": "Do festivals in your area have ties to astrology or celestial events?",
+        "context": "astrological significance"
+      },
+      {
+        "id": 84,
+        "question": "Are there festivals that promote unity between different social classes or castes?",
+        "context": "social unity"
+      },
+      {
+        "id": 85,
+        "question": "How do people in your community use festivals to honor ancestors or departed loved ones?",
+        "context": "ancestral worship"
+      },
+      {
+        "id": 86,
+        "question": "Do festivals in your region incorporate mimicry or satire? What is its purpose?",
+        "context": "satirical elements"
+      },
+      {
+        "id": 87,
+        "question": "Are there festivals that focus on literacy or education, encouraging people to read or learn?",
+        "context": "educational festivals"
+      },
+      {
+        "id": 88,
+        "question": "How do festivals in your area address issues of social justice or inequality?",
+        "context": "social justice themes"
+      },
+      {
+        "id": 89,
+        "question": "Do any festivals involve sharing personal stories or experiences within the community?",
+        "context": "story sharing"
+      },
+      {
+        "id": 90,
+        "question": "How do festivals impact the natural environment in your region, positively or negatively?",
+        "context": "environmental impact"
+      },
+      {
+        "id": 91,
+        "question": "Are there festivals that encourage people to adopt new practices or resolutions?",
+        "context": "new beginnings"
+      },
+      {
+        "id": 92,
+        "question": "Do festivals in your community include mass prayers or meditations?",
+        "context": "collective spirituality"
+      },
+      {
+        "id": 93,
+        "question": "How do people in your area balance traditional festival practices with work or study commitments?",
+        "context": "work-life balance"
+      },
+      {
+        "id": 94,
+        "question": "Are there festivals where the community engages in cleaning or beautifying public spaces?",
+        "context": "community service"
+      },
+      {
+        "id": 95,
+        "question": "How do festivals contribute to mental well-being and happiness in your community?",
+        "context": "mental health"
+      },
+      {
+        "id": 96,
+        "question": "Do any festivals involve traditional instruments or unique sounds? What are they?",
+        "context": "musical instruments"
+      },
+      {
+        "id": 97,
+        "question": "Are there festivals considered inauspicious or avoided by certain groups?",
+        "context": "inauspicious festivals"
+      },
+      {
+        "id": 98,
+        "question": "How do local myths or legends influence festival celebrations in your area?",
+        "context": "mythological influence"
+      },
+      {
+        "id": 99,
+        "question": "Do festivals in your community involve art installations or public art projects?",
+        "context": "public art"
+      },
+      {
+        "id": 100,
+        "question": "How do people document or record festival celebrations for future generations?",
+        "context": "festival documentation"
+      },
+      {
+        "id": 101,
+        "question": "Are there festivals that involve sky-watching activities like kite flying or observing stars?",
+        "context": "sky-related activities"
+      },
+      {
+        "id": 102,
+        "question": "Do festivals in your region include water sports or activities?",
+        "context": "water activities"
+      },
+      {
+        "id": 103,
+        "question": "How do festivals promote peace and harmony in your community?",
+        "context": "peace promotion"
+      },
+      {
+        "id": 104,
+        "question": "Are there festivals that involve exchanging traditional recipes or cooking methods?",
+        "context": "culinary exchange"
+      },
+      {
+        "id": 105,
+        "question": "How do festivals influence fashion trends or traditional dress styles in your area?",
+        "context": "fashion influence"
+      },
+      {
+        "id": 106,
+        "question": "Do any festivals involve participation from the diaspora or people who have moved away?",
+        "context": "diaspora participation"
+      },
+      {
+        "id": 107,
+        "question": "Are there festivals linked to local industries or crafts, promoting their products?",
+        "context": "industry festivals"
+      },
+      {
+        "id": 108,
+        "question": "How does your community handle crowd management and public safety during festivals?",
+        "context": "crowd management"
+      },
+      {
+        "id": 109,
+        "question": "Do festivals in your area include traditional games or sports competitions?",
+        "context": "traditional games"
+      },
+      {
+        "id": 110,
+        "question": "How do festivals serve as platforms to address social or political issues?",
+        "context": "advocacy through festivals"
+      },
+      {
+        "id": 111,
+        "question": "Are there festivals that celebrate technological advancements or innovation?",
+        "context": "technology festivals"
+      },
+      {
+        "id": 112,
+        "question": "How do festivals impact family dynamics? Do they bring families closer together?",
+        "context": "family dynamics"
+      },
+      {
+        "id": 113,
+        "question": "Do festivals involve firecrackers or fireworks? How are safety concerns addressed?",
+        "context": "fireworks safety"
+      },
+      {
+        "id": 114,
+        "question": "Are there festivals that promote language preservation or local dialects?",
+        "context": "language preservation"
+      },
+      {
+        "id": 115,
+        "question": "How do festivals influence moral or ethical teachings in your community?",
+        "context": "moral teachings"
+      },
+      {
+        "id": 116,
+        "question": "Do festivals in your region involve boat races or water-based competitions?",
+        "context": "boat festivals"
+      },
+      {
+        "id": 117,
+        "question": "Are there festivals that encourage environmental practices like tree planting?",
+        "context": "environmental practices"
+      },
+      {
+        "id": 118,
+        "question": "How do festivals adapt to changes in climate or environmental conditions?",
+        "context": "climate adaptation"
+      },
+      {
+        "id": 119,
+        "question": "Do festivals focus on animal welfare or involve criticized animal rituals?",
+        "context": "animal welfare"
+      },
+      {
+        "id": 120,
+        "question": "How do people feel about the commercialization of festivals in your area?",
+        "context": "commercialization"
+      },
+      {
+        "id": 121,
+        "question": "Are there festivals with cross-border participation with neighboring countries?",
+        "context": "international participation"
+      },
+      {
+        "id": 122,
+        "question": "How do festivals reflect or influence political sentiments in your region?",
+        "context": "political influence"
+      },
+      {
+        "id": 123,
+        "question": "Do any festivals involve reenactments of historical events or battles?",
+        "context": "historical reenactments"
+      },
+      {
+        "id": 124,
+        "question": "How have recent events like pandemics affected festival celebrations?",
+        "context": "impact of recent events"
+      },
+      {
+        "id": 125,
+        "question": "Are there festivals that involve the use of colors, like throwing powders or paints?",
+        "context": "color festivals"
+      },
+      {
+        "id": 126,
+        "question": "How do festivals influence local transportation? Are special arrangements made?",
+        "context": "transportation impact"
+      },
+      {
+        "id": 127,
+        "question": "Do festivals include fashion shows or exhibitions in your community?",
+        "context": "fashion events"
+      },
+      {
+        "id": 128,
+        "question": "Are there festivals that promote health awareness or offer medical check-ups?",
+        "context": "health awareness"
+      },
+      {
+        "id": 129,
+        "question": "How do festivals address or highlight issues of gender equality?",
+        "context": "gender equality"
+      },
+      {
+        "id": 130,
+        "question": "Do any festivals involve night-long celebrations? How do people prepare?",
+        "context": "overnight festivities"
+      },
+      {
+        "id": 131,
+        "question": "Are there festivals that celebrate literary works or regional authors?",
+        "context": "literary festivals"
+      },
+      {
+        "id": 132,
+        "question": "How do festivals promote local tourism or heritage sites?",
+        "context": "tourism promotion"
+      },
+      {
+        "id": 133,
+        "question": "Do festivals involve fundraising for community projects?",
+        "context": "fundraising efforts"
+      },
+      {
+        "id": 134,
+        "question": "Are there festivals that include exchange programs with other regions?",
+        "context": "cultural exchanges"
+      },
+      {
+        "id": 135,
+        "question": "How do festivals influence local laws or regulations like noise ordinances?",
+        "context": "legal considerations"
+      },
+      {
+        "id": 136,
+        "question": "Do any festivals involve traditional healing practices or alternative medicine?",
+        "context": "healing traditions"
+      },
+      {
+        "id": 137,
+        "question": "Are there festivals associated with specific age groups like elders or youth?",
+        "context": "age-specific festivals"
+      },
+      {
+        "id": 138,
+        "question": "How does your community incorporate sustainable practices into festivals?",
+        "context": "sustainability"
+      },
+      {
+        "id": 139,
+        "question": "Do festivals include digital participation or virtual events?",
+        "context": "digital festivals"
+      },
+      {
+        "id": 140,
+        "question": "Are there festivals that celebrate contributions of specific professions?",
+        "context": "profession-focused festivals"
+      },
+      {
+        "id": 141,
+        "question": "How do festivals influence education systems like school holidays or curriculum?",
+        "context": "educational impact"
+      },
+      {
+        "id": 142,
+        "question": "Do any festivals involve rituals of forgiveness or community reconciliation?",
+        "context": "forgiveness rituals"
+      },
+      {
+        "id": 143,
+        "question": "Are there festivals that focus on technological innovation or science?",
+        "context": "science festivals"
+      },
+      {
+        "id": 144,
+        "question": "How do festivals address environmental sustainability like reducing plastic use?",
+        "context": "environmental sustainability"
+      },
+      {
+        "id": 145,
+        "question": "Do festivals include competitive cooking or food tasting events?",
+        "context": "culinary competitions"
+      },
+      {
+        "id": 146,
+        "question": "Are festivals celebrated differently in urban and rural areas?",
+        "context": "urban vs. rural celebrations"
+      },
+      {
+        "id": 147,
+        "question": "How do people pass down festival traditions to younger generations?",
+        "context": "tradition transmission"
+      },
+      {
+        "id": 148,
+        "question": "Do festivals involve community storytelling or sharing local legends?",
+        "context": "community storytelling"
+      },
+      {
+        "id": 149,
+        "question": "Are there festivals that encourage participation from people of all abilities?",
+        "context": "inclusive festivals"
+      },
+      {
+        "id": 150,
+        "question": "How do festivals contribute to the overall well-being of your community?",
+        "context": "community well-being"
+      }
+    ]
+  }
+  
