@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Can you describe a historical monument or site in your region that holds special significance to you?",
+      "context": "Describe a local historical site."
+    },
+    {
+      "id": 2,
+      "question": "What are some lesser-known historical figures from your area who have made significant contributions?",
+      "context": "Local historical figures' contributions."
+    },
+    {
+      "id": 3,
+      "question": "How has the history of your region influenced its current cultural practices?",
+      "context": "History's influence on culture."
+    },
+    {
+      "id": 4,
+      "question": "Can you share any traditional stories or legends that are unique to your region?",
+      "context": "Local stories or legends."
+    },
+    {
+      "id": 5,
+      "question": "What historical events in your area are celebrated through festivals or ceremonies?",
+      "context": "History in local festivals."
+    },
+    {
+      "id": 6,
+      "question": "How did the independence movement impact your region specifically?",
+      "context": "Independence movement's local impact."
+    },
+    {
+      "id": 7,
+      "question": "Are there any ancient scripts or languages that originated from your region?",
+      "context": "Ancient scripts or languages."
+    },
+    {
+      "id": 8,
+      "question": "What role did your region play in historical trade routes or economic activities?",
+      "context": "Region's role in historical trade."
+    },
+    {
+      "id": 9,
+      "question": "Can you describe any historical conflicts or battles that took place in your area?",
+      "context": "Local historical conflicts."
+    },
+    {
+      "id": 10,
+      "question": "How have historical migrations influenced the demographics of your region?",
+      "context": "Migrations affecting demographics."
+    },
+    {
+      "id": 11,
+      "question": "What are some ancient architectural styles unique to your region?",
+      "context": "Unique ancient architecture."
+    },
+    {
+      "id": 12,
+      "question": "Can you share stories about any historical kingdoms or empires that ruled over your area?",
+      "context": "Historical kingdoms in your area."
+    },
+    {
+      "id": 13,
+      "question": "How has colonization impacted the historical development of your region?",
+      "context": "Colonization's impact locally."
+    },
+    {
+      "id": 14,
+      "question": "Are there any significant archaeological sites in your region? What have they revealed?",
+      "context": "Local archaeological sites."
+    },
+    {
+      "id": 15,
+      "question": "What traditional crafts or industries have historical roots in your area?",
+      "context": "Historical crafts or industries."
+    },
+    {
+      "id": 16,
+      "question": "Can you discuss any historical figures from your region who contributed to arts or literature?",
+      "context": "Arts-related historical figures."
+    },
+    {
+      "id": 17,
+      "question": "How did historical trade with other regions or countries influence your local culture?",
+      "context": "Trade's influence on culture."
+    },
+    {
+      "id": 18,
+      "question": "What historical events are taught in schools in your region that might not be well-known elsewhere?",
+      "context": "Local history taught in schools."
+    },
+    {
+      "id": 19,
+      "question": "Are there any historical songs, dances, or art forms native to your region?",
+      "context": "Native historical art forms."
+    },
+    {
+      "id": 20,
+      "question": "How do local historical narratives shape the identity of people in your area?",
+      "context": "History shaping local identity."
+    },
+    {
+      "id": 21,
+      "question": "Can you share any historical events where your region played a pivotal role in national history?",
+      "context": "Region's pivotal historical events."
+    },
+    {
+      "id": 22,
+      "question": "What ancient religions or belief systems originated or were prominent in your area?",
+      "context": "Ancient religions in your area."
+    },
+    {
+      "id": 23,
+      "question": "How have historical agricultural practices shaped the way farming is done today in your region?",
+      "context": "History of local agriculture."
+    },
+    {
+      "id": 24,
+      "question": "Are there any historical documents or manuscripts preserved in your region? What do they entail?",
+      "context": "Preserved historical documents."
+    },
+    {
+      "id": 25,
+      "question": "Can you describe the historical architecture found in old towns or cities of your region?",
+      "context": "Historical architecture details."
+    },
+    {
+      "id": 26,
+      "question": "What historical events led to the current linguistic diversity in your region?",
+      "context": "History behind language diversity."
+    },
+    {
+      "id": 27,
+      "question": "How did the partition of India affect your region historically?",
+      "context": "Partition's local effects."
+    },
+    {
+      "id": 28,
+      "question": "Are there any historical educational institutions in your area? What's their legacy?",
+      "context": "Historical schools or colleges."
+    },
+    {
+      "id": 29,
+      "question": "Can you share stories of historical trade guilds or merchant communities in your region?",
+      "context": "Historical trade communities."
+    },
+    {
+      "id": 30,
+      "question": "What are some historical environmental practices or beliefs from your area?",
+      "context": "Historical environmental beliefs."
+    },
+    {
+      "id": 31,
+      "question": "How have historical events shaped the cuisine of your region?",
+      "context": "History influencing cuisine."
+    },
+    {
+      "id": 32,
+      "question": "Are there any historical sports or games native to your region?",
+      "context": "Native historical sports."
+    },
+    {
+      "id": 33,
+      "question": "What role did your region play during major historical movements like the Non-Cooperation Movement?",
+      "context": "Region's role in movements."
+    },
+    {
+      "id": 34,
+      "question": "Can you describe any historical art or sculpture styles unique to your area?",
+      "context": "Unique historical art styles."
+    },
+    {
+      "id": 35,
+      "question": "How have historical trade relationships influenced the architecture in your region?",
+      "context": "Trade's impact on architecture."
+    },
+    {
+      "id": 36,
+      "question": "Are there any historical sites in your region that are considered pilgrimage destinations?",
+      "context": "Historical pilgrimage sites."
+    },
+    {
+      "id": 37,
+      "question": "What are some historical agricultural products that your region was famous for?",
+      "context": "Famous historical crops."
+    },
+    {
+      "id": 38,
+      "question": "Can you share how historical events have influenced the traditional attire of your region?",
+      "context": "History affecting clothing."
+    },
+    {
+      "id": 39,
+      "question": "How did historical interactions with neighboring regions shape your local culture?",
+      "context": "Neighboring influence on culture."
+    },
+    {
+      "id": 40,
+      "question": "Are there any historical rivers or natural landmarks significant to your region's history?",
+      "context": "Significant natural landmarks."
+    },
+    {
+      "id": 41,
+      "question": "What historical methods of transportation were used in your area, and how did they evolve?",
+      "context": "Historical transportation methods."
+    },
+    {
+      "id": 42,
+      "question": "Can you describe any historical medical practices or traditional healing methods from your region?",
+      "context": "Historical medical practices."
+    },
+    {
+      "id": 43,
+      "question": "How have historical events influenced the music traditions in your area?",
+      "context": "History's impact on music."
+    },
+    {
+      "id": 44,
+      "question": "Are there any historical markets or bazaars that have been operating for centuries in your region?",
+      "context": "Ancient markets or bazaars."
+    },
+    {
+      "id": 45,
+      "question": "What is the historical significance of any local festivals unique to your region?",
+      "context": "Significance of local festivals."
+    },
+    {
+      "id": 46,
+      "question": "Can you share stories about historical migrations into or out of your region?",
+      "context": "Historical migrations stories."
+    },
+    {
+      "id": 47,
+      "question": "How did historical education systems in your region differ from those in other areas?",
+      "context": "Unique historical education."
+    },
+    {
+      "id": 48,
+      "question": "Are there any historical sites in your region that are UNESCO World Heritage Sites?",
+      "context": "UNESCO sites locally."
+    },
+    {
+      "id": 49,
+      "question": "What are some historical environmental challenges your region has faced, and how were they addressed?",
+      "context": "Past environmental challenges."
+    },
+    {
+      "id": 50,
+      "question": "Can you describe any historical events where your region interacted with foreign powers?",
+      "context": "Interactions with foreigners."
+    },
+    {
+      "id": 51,
+      "question": "How have historical social structures in your region evolved over time?",
+      "context": "Evolution of social structures."
+    },
+    {
+      "id": 52,
+      "question": "Are there any famous historical speeches or declarations made in your region?",
+      "context": "Notable historical speeches."
+    },
+    {
+      "id": 53,
+      "question": "What historical role did women play in your region's history?",
+      "context": "Women's historical roles."
+    },
+    {
+      "id": 54,
+      "question": "Can you share any historical weather events that have impacted your region significantly?",
+      "context": "Significant past weather events."
+    },
+    {
+      "id": 55,
+      "question": "How did historical technological advancements reach your region, and what impact did they have?",
+      "context": "Technology's historical impact."
+    },
+    {
+      "id": 56,
+      "question": "Are there any historical records of art or literature that originated in your region?",
+      "context": "Local historical art records."
+    },
+    {
+      "id": 57,
+      "question": "What historical forms of governance existed in your region before modern times?",
+      "context": "Pre-modern governance forms."
+    },
+    {
+      "id": 58,
+      "question": "Can you describe any historical alliances or rivalries your region had with others?",
+      "context": "Historical alliances or rivalries."
+    },
+    {
+      "id": 59,
+      "question": "How have historical population shifts affected urban development in your area?",
+      "context": "Population shifts' effects."
+    },
+    {
+      "id": 60,
+      "question": "Are there any historical rituals or ceremonies that are still practiced today in your region?",
+      "context": "Enduring historical rituals."
+    },
+    {
+      "id": 61,
+      "question": "What historical educational philosophies or scholars emerged from your region?",
+      "context": "Local educational philosophies."
+    },
+    {
+      "id": 62,
+      "question": "Can you share how historical trade goods from your region were valued elsewhere?",
+      "context": "Value of local trade goods."
+    },
+    {
+      "id": 63,
+      "question": "How did historical health epidemics or diseases affect your region?",
+      "context": "Past health epidemics."
+    },
+    {
+      "id": 64,
+      "question": "Are there any historical events commemorated by monuments or memorials in your region?",
+      "context": "Monuments commemorating events."
+    },
+    {
+      "id": 65,
+      "question": "What historical forms of communication were prevalent in your area?",
+      "context": "Historical communication methods."
+    },
+    {
+      "id": 66,
+      "question": "Can you describe the historical significance of any local rivers or waterways?",
+      "context": "Important rivers or waterways."
+    },
+    {
+      "id": 67,
+      "question": "How have historical events influenced the economic development of your region?",
+      "context": "History shaping economy."
+    },
+    {
+      "id": 68,
+      "question": "Are there any traditional historical methods of dispute resolution in your region?",
+      "context": "Historical dispute methods."
+    },
+    {
+      "id": 69,
+      "question": "What are some historical agricultural festivals celebrated in your area?",
+      "context": "Agricultural festivals history."
+    },
+    {
+      "id": 70,
+      "question": "Can you share stories about historical explorers or travelers who visited your region?",
+      "context": "Visiting explorers' stories."
+    },
+    {
+      "id": 71,
+      "question": "How did historical resource availability shape the industries in your region?",
+      "context": "Resources shaping industries."
+    },
+    {
+      "id": 72,
+      "question": "Are there any historical cemeteries or burial sites with unique traditions in your region?",
+      "context": "Unique burial traditions."
+    },
+    {
+      "id": 73,
+      "question": "What historical role did your region play in maritime activities or naval history?",
+      "context": "Maritime history locally."
+    },
+    {
+      "id": 74,
+      "question": "Can you describe any historical influences from invaders or conquerors in your region?",
+      "context": "Influence of invaders."
+    },
+    {
+      "id": 75,
+      "question": "How have historical educational institutions influenced modern education in your area?",
+      "context": "Legacy of historical schools."
+    },
+    {
+      "id": 76,
+      "question": "Are there any historical forms of local governance still in practice today?",
+      "context": "Traditional governance today."
+    },
+    {
+      "id": 77,
+      "question": "What historical methods of storytelling are unique to your region?",
+      "context": "Unique storytelling methods."
+    },
+    {
+      "id": 78,
+      "question": "Can you share how historical events have shaped the religious diversity in your region?",
+      "context": "History affecting religions."
+    },
+    {
+      "id": 79,
+      "question": "How did historical water management systems function in your area?",
+      "context": "Water management history."
+    },
+    {
+      "id": 80,
+      "question": "Are there any historical clothing or textile industries significant to your region?",
+      "context": "Historical textile industries."
+    },
+    {
+      "id": 81,
+      "question": "What are some historical proverbs or sayings from your region, and what do they mean?",
+      "context": "Local historical sayings."
+    },
+    {
+      "id": 82,
+      "question": "Can you describe any historical events that led to changes in land ownership in your area?",
+      "context": "Land ownership changes."
+    },
+    {
+      "id": 83,
+      "question": "How have historical events influenced the demographic makeup of your region?",
+      "context": "History shaping demographics."
+    },
+    {
+      "id": 84,
+      "question": "Are there any historical preservation efforts for sites or traditions in your region?",
+      "context": "Preserving historical sites."
+    },
+    {
+      "id": 85,
+      "question": "What historical roles did your region play in the development of science and technology?",
+      "context": "Contributions to science."
+    },
+    {
+      "id": 86,
+      "question": "Can you share stories about historical figures from your region known for their bravery?",
+      "context": "Brave historical figures."
+    },
+    {
+      "id": 87,
+      "question": "How have historical natural disasters shaped the infrastructure of your region?",
+      "context": "Disasters affecting infrastructure."
+    },
+    {
+      "id": 88,
+      "question": "Are there any historical educational methods unique to your area?",
+      "context": "Unique educational methods."
+    },
+    {
+      "id": 89,
+      "question": "What are some historical myths or legends that explain natural formations in your region?",
+      "context": "Myths about nature."
+    },
+    {
+      "id": 90,
+      "question": "Can you describe any historical events that have become moral lessons in your culture?",
+      "context": "Events as moral lessons."
+    },
+    {
+      "id": 91,
+      "question": "How did historical trade in spices, textiles, or other goods affect your region?",
+      "context": "Trade's effect on region."
+    },
+    {
+      "id": 92,
+      "question": "Are there any historical records of astronomical observations from your region?",
+      "context": "Astronomical history locally."
+    },
+    {
+      "id": 93,
+      "question": "What historical role did your region play in ancient education centers like Nalanda?",
+      "context": "Connections to ancient centers."
+    },
+    {
+      "id": 94,
+      "question": "Can you share how historical events have influenced local dietary customs?",
+      "context": "History affecting diet."
+    },
+    {
+      "id": 95,
+      "question": "How have historical forms of art and craft evolved in your region over time?",
+      "context": "Evolution of art forms."
+    },
+    {
+      "id": 96,
+      "question": "Are there any historical maritime traditions or boat-making practices in your area?",
+      "context": "Maritime traditions."
+    },
+    {
+      "id": 97,
+      "question": "What historical impact did the Silk Road or other trade routes have on your region?",
+      "context": "Trade routes' impact."
+    },
+    {
+      "id": 98,
+      "question": "Can you describe any historical forms of taxation or economic systems in your region?",
+      "context": "Historical economic systems."
+    },
+    {
+      "id": 99,
+      "question": "How did historical events influence the legal systems in your area?",
+      "context": "History shaping laws."
+    },
+    {
+      "id": 100,
+      "question": "Are there any historical figures from your region who have been forgotten over time? Can you share their stories?",
+      "context": "Forgotten historical figures."
+    }
+  ]
+}
